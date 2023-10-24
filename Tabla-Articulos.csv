@@ -1,0 +1,5773 @@
+codigo;nombre;precio_compra;precio_unitario;id_proveedor
+000310210M;Cinta tela blanca 9.14 mts. ajec;153;110027.13;3
+0003208-1510;Cinta aisladora esp 0.015mm 10m negra;5;1002.25;3
+0003209-1920;Cinta aisladora esp 0.018mm 20m negra;9;4494.6;3
+0004KD39364;Perilla de velador kalop negra;62;41086.44;3
+0004KD40100;Mod.kalop punto blanco;715;361486.45;3
+0004KD40115;Mod.kalop punto comb.blanco;114;83140.37;3
+0004KD40245;Mod.kalop toma c/n comb.blanco;1004;446062.84;3
+0004KD40246;Mod.kalop toma c/n comb.negro;98;42083.09;3
+0004KD40570;Mod.kalop tapon ciego blanco;4735;274454.24;3
+0004KD40702;Bastidor 3 bocas linea jonica y civil;2348;565371.91;3
+0004KD40710;Tapa 3 bocas rect.civil blanco;3500;785724.14;3
+0004KD44211;Ficha 3 patas macho blanco k3 kalop;163;66170.83;3
+0004KD44213;Ficha 3 patas macho negro k3 kalop;1146;459354.97;3
+0004KD44222;Ficha 3 patas macho negra heavy duty kalop;13;7514,00;3
+0004KD44251;Ficha 3 patas hembra blanco kh kalop;42;21857.91;3
+0004KD44253;Ficha 3 patas hembra negro kh kalop;1043;461849.8;3
+0004KD48251;Soporte armado con toma c/n.;44;25462.27;3
+0004KL02472;Caja para termicas  ext s/p. 2 mod. gris;2;1435.77;3
+0004KL02473;Caja para termicas  ext s/p. 4 mod. gris;1;796.26;3
+0004KL06001;Caja de 100 grampas kalop nº5;1;1080.11;3
+0004KL06002;Caja de 100 grampas kalop nº8;3;2858.43;3
+0004KL06003;Caja de 50 grampas kalop nº10;6;4528.81;3
+0004KL06004;Caja de 20 grampas kalop nº12;1;801.87;3
+0004KL06006;Caja de 20 grampas kalop nº16;1;580.99;3
+0004KL06010;Caja de 50 grampas kalop coaxil negro;4;2677.93;3
+0004KL06012;Caja de 50 grampas kalop coaxil negro rg6;1;795.29;3
+0004KL29110N;Cinta pasacable profesional 10m;2;4465.82;3
+0004KL29510;Cinta Helicoidal HWork 10m;4;14134.78;3
+0004KL39652;Toma ext.kalop combinado Linea Tekna;82;51371.93;3
+0004KL39653;Toma doble ext.kalop combinado Linea Tekna;67;83494.95;3
+0004KL39654;Llave 1 punto+toma ext.kalop comb. Linea Tekna;7;7773.47;3
+0004KL40100;Interrup. unip. simp.bco(1Caja*60.u/8);10;5180;3
+0004KL40101;Mod.kalop punto negro;110;56669.88;3
+0004KL40105;Mod.kalop doble punto tecla normal blanco;3;3715.63;3
+0004KL40106;Mod.kalop doble punto tecla normal negro;3;4978.97;3
+0004KL40116;Mod.kalop punto comb.negro;7;5291.84;3
+0004KL40120;Mod.kalop doble comb.tecla normal blanco;19;38732.42;3
+0004KL40123;Media Tecla combinada bca(1ca*20u/16);2;2582.12;3
+0004KL40123P;Mod.kalop teclon pulsador blanco;3;2732.51;3
+0004KL40123S;Mod.kalop 1/2 teclon simple blanco;18;13058.95;3
+0004KL40123T;Mod.kalop teclon simple blanco;12;9150.83;3
+0004KL40124S;Mod.kalop 1/2 teclon simple negro;2;1575.53;3
+0004KL40124T;Mod.kalop teclon simple negro;9;7166.88;3
+0004KL40126;Mod.kalop 1/2 teclon combinado blanco;10;8760.49;4
+0004KL40126T;Mod.kalop teclon combinado blanco;27;30214.42;4
+0004KL40127;Mod.kalop 1/2 teclon combinado negro;10;9457.48;4
+0004KL40130;Mod.kalop pulsador blanco;8;5269.87;4
+0004KL40180;Mod.kalop punto comb.bipolar blanco;29;48210.33;4
+0004KL40181;Mod.kalop punto comb.bipolar negro;1;1903.55;4
+0004KL40190;Mod.kalop int.bipolar 3 pos. blanco;1;2867.38;4
+0004KL40195;Mod.kalop int.tarjeta hotelera;9;19721.21;4
+0004KL40201;Lampara neon negra;9;3739.71;4
+0004KL40208;Inhibidor de destellos;1;1456.93;4
+0004KL40235;Mod.kalop toma c/n 20 amp.blanco;102;127161.92;4
+0004KL40245;Mod.kalop toma c/n iram 2071 blanco;263;125179.41;4
+0004KL40245EN;Mod.kalop toma c/n comb.rojo;10;6475;4
+0004KL40246;Mod.kalop toma c/n iram 2071 negro;76;44905.45;4
+0004KL40291;Mod.kalop toma prolong.catv pin fino blanco;5;2814.75;4
+0004KL40292;Mod.kalop toma prolong.catv pin fino negro;3;2180.79;4
+0004KL40296;Mod.kalop tv pin fino negro;1;1527.94;4
+0004KL40321;Mod.kalop tel.usa rj11 blanco;5;4245.81;4
+0004KL40322;Mod.kalop tel.usa rj11 negro;1;801.99;4
+0004KL40570;Tapon ciego blanco sist.mod(1ca*120u/8);20;1400;4
+0004KL40571;Mod.kalop tapon ciego grafito;302;20889.06;4
+0004KL40580;Adaptador din 1 mod.;8;1633.78;4
+0004KL40615;Tapa bastidor donna 3 mod.;2;541.54;4
+0004KL40702;Bastidor unico 3mod.sist.mod.(1ca*60u);15;3937.5;4
+0004KL40707;Bastidor mignon;53;9244.26;4
+0004KL40713;Tapa Civil ciega bca c/bast(1ca.*30bol);16;8675.72;4
+0004KL41580;Tapa 3 mod. zen concept madera;1;1331.59;4
+0004KL41583T;Conj. teclon comb. zen concept coctel;1;2270.05;4
+0004KL41588;Tapa 3 mod. zen concept pinceladas;5;4405.99;4
+0004KL41588T;Conj. teclon comb. zen concept pinceladas;1;2826.1;4
+0004KL41621T;Conj.Teclon comb.Zen Concept Love(1ca*5b;1;2826.1;4
+0004KL42003;Caja ip40 1 modulo gris;3;3227.91;4
+0004KL42013;Caja ip40 2 modulos gris;11;16098.55;4
+0004KL42023;Caja ip40 4 modulos gris;50;78556.92;4
+0004KL42213;Caja ip55 tapa transp.2 modulos gris;13;32077.49;4
+0004KL42403;Tapa 3 modulos ip55 p/caja 10x5 blanco;21;36612.27;4
+0004KL42413;Caja ip55 c/membrana 3 modulos gris;23;68060.03;4
+0004KL44173;Ficha velador 10A blanca;2;553.29;4
+0004KL48000;Ficha industrial 2x16 kalop;16;22919.4;4
+0004KL48001;Ficha industrial 2x16+n kalop;2;2924.55;4
+0004KL48002;Ficha industrial 3x16 kalop;6;10804.44;4
+0004KL48003;Ficha industrial 3x16+n kalop;53;87384.06;4
+0004KL48010;Ficha industrial 2x32 kalop;0;0;4
+0004KL48011;Ficha industrial 2x32+n kalop;1;2011.37;4
+0004KL48012;Ficha industrial 3x32 kalop;1;2415.4;4
+0004KL48013;Ficha industrial 3x32+n kalop;23;64376.83;4
+0004KL48040;Base industrial 2x16 kalop;18;24153.62;4
+0004KL48042;Base industrial 3x16 kalop;6;9692.11;4
+0004KL48043;Base industrial 3x16+n kalop;37;63348.26;4
+0004KL48050;Base industrial 2x32 kalop;1;1550.11;4
+0004KL48051;Base industrial 2x32+n kalop;1;2029.7;4
+0004KL48052;Base industrial 3x32 kalop;1;1888.17;4
+0004KL48053;Base industrial 3x32+n kalop;28;61689.36;4
+0004KL48201;Caja caps16A.t/tierra azul(1caja*10u./8);9;14009.12;4
+0004KL48251;Soporte armado con toma c/n. iram 2071;252;142740.68;4
+0004KL48252;Soporte armado con 1 punto;9;10656.35;4
+0004KL48880;Caja capsulada para base kalop 16a.vacia;212;225617.73;4
+0004KL48881;Caja capsulada para base kalop 32a.vacia;19;24214.41;4
+0004KL48885;Caja capsulada tablero para base 16a.;70;66491.44;4
+0004KL48886;Caja capsulada tablero para base 32a.;9;11426.21;4
+0004KS39365;Perilla torpedo pulsador kalop;1;1070.05;4
+0004KS39650;Llave 1 punto ext.kalop  Linea Tekna;68;36970.2;4
+0004KS39651;Llave 2 puntos ext.kalop Linea Tekna;4;3437.1;4
+0004KS39652;Toma ext.kalop normalizado Linea Tekna;158;105898.77;4
+0004KS39653;Toma doble ext.kalop normalizado Linea Tekna;80;98849.74;4
+0004KS39654;Llave 1 punto+toma ext.kalop iram Linea Tekna;22;25501.78;4
+0004KS39657;Pulsador ext.kalop Linea Tekna;29;15206.45;4
+0004KS39658;Llave 1 punto combinacion ext.kalop Linea Tekna;1;616.94;4
+0004KS39660;Toma 20A 250V exterior kalop;38;36890.84;4
+0004KS40236;Mod.kalop toma c/n 20 amp.negro;13;13070.15;4
+0004KS40251;Mod.kalop toma c/n doble blanco con bastidor;87;112850.98;4
+0004KS40255;Mod.kalop toma c/n doble blanco;617;719549.45;4
+0004KS40256;Mod.kalop toma c/n doble negro;156;159571.62;4
+0004KS40266;Mod.kalop toma 1 1/2 modulo blanco 10a;2;1353.28;4
+0004KS40339;Mod.kalop pc rj45 blanco;16;40477.79;4
+0004KS40466;Mod.kalop reg.luz Led Dim 220V negro;3;33122.71;4
+0004KS40490;Mod.kalop toma doble usb blanco;146;1141591.17;4
+0004KS40491;Mod.kalop toma doble usb negro;8;62607.64;4
+0004KS40711;Tapa 3 bocas rect.civil grafito;178;34517.07;4
+0004KS40713;Tapa ciega civil blanca;20;5942.31;4
+0004KS40720;Tapa 3 bocas rect.civil gold;9;11596.45;4
+0004KS40724;Tapa 3 bocas rect.civil gris pretoria;7;9831.6;4
+0004KS40730;Tapa 1 boca mign.civil blanco;45;10342.93;4
+0004KS40731;Tapa 1 boca mign.civil negro;9;2362.13;4
+0004KS40816;Tapa 3 bocas rect.jonica grafito;7;2049.55;4
+0004KS41510;Tapa 3 mod. zen basic blanca;225;68018.53;4
+0004KS41511;Tapa 3 mod. zen basic negra;119;36970.24;4
+0004KS41532;Tapa 3 mod. zen metal oro;45;57188.21;4
+0004KS41533;Tapa 3 mod. zen metal bronce;1;1288.24;4
+0004KS41541;Tapa 3 mod. zen colors celeste;2;3399.48;4
+0004KS41544;Tapa 3 mod. zen colors naranja;9;11004.39;4
+0004KS41547;Tapa 3 mod. zen colors gris;1;1226.47;4
+0004KS44201;Ficha 2 patas chatas macho blanco linea k2;1;341.72;4
+0004KS44203;Ficha 2 patas chatas macho negro linea k2;2;548.04;4
+0004KS44620;Ficha macho 3 perno chato kalop 20a;14;14546.83;4
+00061601LITIO-LED;Sist. autonomo p/led 220v c/bateria de litio;16;327505.28;1
+00061604;Sist. autonomo p/dicroled 5w gu10;4;48233.87;1
+00061609;Sist. autonomo p/dicro led c/bat litio 16w;1;17329.93;1
+00061610;Sist. autonomo p/panel led c/bat litio 3-100w;6;118233.28;1
+00062020LED;Luz de emergencia 60 led 12hs bat. acido-plomo;12;141426;1
+00062020LED-LI;Luz de emergencia 60 led c/bateria de litio;259;3355551.07;1
+00062028LED;Luz de emergencia 30 led 24/18hs bat. acido-plomo;1;14052.61;1
+00062045LED-LI;Luz de emergencia ultracompacta 42 led bat. litio;30;326293.55;1
+00063725;Bateria litio 3.7v;33;98687.98;1
+00068091LED;Equipo auton.2 faros 60 led c/bat.aut.5hs.;7;680726.03;1
+00068091LEDHEAVY;Equipo auton.2 faros 90w c/u led c/bat.aut.5hs.;1;142438.66;1
+00069905L SLIM-S;Señ. led 220v ni-cd marco bco salida slim;0;0;1
+00069905L SLIM-SE;Señ. led 220v ni-cd marco bco salida emerg slim;14;132502.25;1
+00069905L-S;Señ. led 220v ni-cd marco bco salida;11;193357.9;1
+00069905L-SE;Señ. led 220v ni-cd marco bco salida emerg;8;158805.5;1
+00069905L-SEI;Señ. led 220v ni-cd marco bco sal.emerg.izq;0;0;1
+0006R1000@;Estab.atomlux linea r 1000va 6x220v;17;309645.75;1
+0006R500@;Estab.atomlux linea r 500va 6x220v;3;45315.64;1
+0008109752;Interruptor compacto tripolar 63amp 3p. icu= 18 ka;1;72405.07;1
+0012102.255.30.02;Ficha macho 2 patas chatas salida lateral negra;43;14013.8;1
+0012102.255.30.05;Ficha macho 2 patas chatas salida lateral marfil;242;68936.76;1
+0012103.273.22.02;Ficha macho 3 patas salida trasera c/traba negra;981;378506.45;1
+0012103.273.22.05;Ficha macho 3 patas salida trasera c/traba marfil;307;130742.16;1
+0012103.283.22.02;Ficha macho 3 patas 10a redonda giratoria negra;16;5228.24;1
+0012103.283.22.05;Ficha macho 3 patas 10a redonda giratoria marfil;133;49234.73;1
+0012103.283.30.02;Ficha macho 3 patas 10a redonda giratoria negra;3;1338.59;1
+0012103.285.30.02;Ficha macho perno chato 20a. alto consumo negra;6;3987.6;1
+0012103.285.30.05;Ficha macho perno chato 20a. alto consumo marfil;72;53017.86;1
+0012115.250.22.05;Perilla velador 4a. marfil;284;56400.67;1
+0012115.256.22.05;Perilla velador 2a. marfil;9;1823.73;1
+0012125.267.22.02;Ficha hembra 3 patas puras 10a sal.trasera negra;502;172961.14;1
+0012125.267.22.05;Ficha hembra 3 patas puras 10a sal.trasera marfil;109;41916.83;1
+0012125.277.22.02;Ficha hembra 3 patas 10a sal.tras comb. negra;10;3330.97;1
+0012125.277.22.05;Ficha hembra 3 patas 10a sal.tras comb.marfil;7;2485.77;1
+0012125.287.22.02;Ficha hembra 3 patas puras 10a red.girat. negra;16;3766.3;1
+0012125.287.22.05;Ficha hembra 3 patas puras 10a red.girat. arfil;201;57073.53;1
+0012126.310.30.05;Modulo emb.toma con neutro 10a marfil;3;1628.63;1
+0012127.450.22.05;Zap.binorma 2 tomas sin cable sin termico;107;140318.99;1
+0012127.455.22.05;Zap.mononorma 2 tomas sin cable sin termico;61;66988.91;1
+0012127.500.61.05;Zap.mononorma 5 tomas con termico y sin cable;12;31287.51;1
+0012127.510.61.05;Zap.binorma 5 tomas con termico y sin cable;44;113334.9;1
+0012138.541.61.05;Zap.mononorma 4 tomas richi c/termico 1.5mt cable;1;2914.81;1
+0012138.551.61.05;Zap.mononorma 5 tomas con termico y cable 1.5 mt;42;155292.18;1
+0012138.552.61.05;Zap.mononorma 5 tomas con termico y cable 2.5 mt;20;77698.33;1
+0012138.554.61.05;Zap.mononorma 5 tomas con termico y cable 5 mt;20;83142.48;1
+0012138.561.61.05;Zap.binorma 4 tomas richi c/termico 1.5mt cable;2;7835.08;1
+0012138.571.61.05;Zap.binorma 5 tomas con termico y cable 1.5 mt;43;161594.82;1
+0012138.572.61.05;Zap.binorma 5 tomas con termico y cable 2.5 mt;52;200354.51;1
+0012138.574.61.05;Zap.binorma 5 tomas con termico y cable 5 mt;17;86635.66;1
+0012140.034.30.01;Zoc.flexible c/chicote simple apto led x unidad;141;29701.13;1
+0012140.120.30.01;Juego zocalo 105w;12;8775.57;1
+0012140.575.30.01;Juego zocalo 105w  cableado;3;3814.02;1
+0012214.110.22.01;Interruptor unipolar 6A BL;145;29248.39;1
+0012214.130.22.01;Interruptor unipolar inversor 6A BL;22;8734.23;1
+0012214.130.30.01;Interruptor unipolar inversor 6A BL;4;1856.67;1
+0012214.140.22.01;Interruptor pulsador unipolar 6A BL;1;275.24;1
+0012216.121.30.01;Medio modulo +1/2 cierre quantum punto blanco;1;348.01;1
+0012216.122.30.01;Medio modulo quantum punto blanco;2;1199.72;1
+0012226.020.22.01;Tomacorriente 20A BL;1;590.82;1
+0012226.020.30.01;Modulo quantum toma c/n 20a.blanco;6;4064.91;1
+0012226.025.30.01;Modulo quantum toma c/n 10a.blanco;121;26687.62;1
+0012226.025.30.02;Modulo quantum toma c/n 10a.gris;1;214.09;1
+0012226.030.30.01;Modulo quantum toma c/n comb.10a.blanco;49;10880.34;1
+0012226.034.30.01;Modulo toma c/n comb.10a. doble blanco;47;37261.4;1
+0012226.035.30.01;Modulo toma c/n 10a. doble blanco;166;136872.75;1
+0012230.410.50.01;Modulo quantum rj45 blanco;3;8391.95;1
+0012252.101.22.01;Tapon ciego Simple BL;8;254.62;1
+0012252.101.30.01;Modulo quantum tapon blanco;305;11414.35;1
+0012252.101.30.02;Modulo quantum tapon gris;1;35.57;1
+0012252.111.22.04;Bastidor quantum 1 modulo mignon;8;718.45;1
+0012252.113.22.04;Bastidor quantum 3 modulos rectangular;412;41798.12;1
+0012252.121.30.00;Adaptador din para modulos quantum;10;1288.3;1
+0012252.133.30.04;Bastidor geo 3 modulos rectangular;10;1662.53;1
+0012255.210.51.01;Tapa quantum era 1 modulo blanca mignon;8;1029;1
+0012255.230.51.01;Tapa quantum era 3 modulos blanca;370;52066.91;1
+0012257.403.22.01;Frente estanco para caja rect. 3 mod.;7;6844.2;1
+0012257.453.22.01;Caja sup.c/frente estanco 3 mod.;10;22682.2;1
+0012276.020.22.01;Base ext.toma con neutro 20a;82;86229.25;1
+00141311;Int. bipolar 6 amp. soldar;2;751.68;1
+00205502;Terminal laton 436 pala hembra 6.3;1710;46190.83;1
+00205503;Terminal laton 624 bandera pala hembra  6.3;4;142.09;1
+00205506;Terminal laton 790 pala macho 6.3;1508;35543.27;1
+00205513;Terminal laton 517 pala hembra 6.3 c/traba;147;5132.32;1
+00205514;Terminal laton 830 pala macho 6.3 c/traba;19;474.04;1
+00205529;Terminal laton ojal 1250 5.2 / 9.8;60;1769.26;1
+00205533;Terminal laton horquilla 1350 4.2;200;2918.92;1
+00205542;Aislacion  p/terminal sin traba pala hembra 6.3;500;8899.92;1
+00205543;Aislacion  p/terminal sin traba pala macho 6.3;500;8474.05;1
+00205544;Terminal laton cilindrico hembra 1054 2.3;6;73.09;1
+00205549;Terminal laton 436b pala hembra 10.3;100;11228.86;1
+0020A13;Terminal rojo pin largo 9.9;200;6776.37;1
+0020AE-1;Plaq.p/term.alum.10-16-25mm2 agu.9;150;75409.71;1
+0020AN3204;Terminal de potencia ojal 10mm² m6 3074;5;1509.92;1
+0020B15;Terminal azul pin largo 9.9;200;7507.37;1
+0020C4;Terminal amar. redondo 6;200;13155.46;1
+0020C9-01;Grampa para tierra 6/50;4;8949.19;1
+0020CCD120;Conector en c;200;650464;1
+0020CCD150;Conector en c;20;91900;1
+0020CCD35;Conector en c;50;36525.35;1
+0020CCD50;Conector en c;60;70855.83;1
+0020CCD70;Conector en c;150;145600.35;1
+0020CCD95;Conector en c;120;166618.87;1
+0020CCG-3;Conector en g;15;70110.39;1
+0020CCG-5;Conector en g;12;58573.3;1
+0020CDE;Morseto deriv. estanco 16/95 a 4/35 alum;124;106131.61;1
+0020CDE-A;Morseto deriv. estanco 16/95 a 4/35 alum;6;5947.98;1
+0020CDE-C;Morseto deriv. estanco 16/95 a 4/35 cobre;4;5306.56;1
+0020CMP120;"Terminal placa angosta 120mm ojal 3/8""";50;139474.8;1
+0020CMP95;"Terminal placa angosta 95mm ojal 3/8""";50;98922.58;1
+0020CTN10;Terminal tif c/aislacion 10mm²;100;3823.26;1
+0020CTN2.5;Terminal tif c/aislacion 2.50mm²;600;9657.99;1
+0020CTN4;Terminal tif c/aislacion 4mm²;300;6717.78;1
+0020CTN6;Terminal tif c/aislacion 6mm²;220;6171.01;1
+0020E1;Conector para derivacion lct rojo;12;693.42;1
+0020E2;Conector para derivacion lct azul;254;11742.08;1
+0020E3;Conector para derivacion lct amarillo;32;2371.04;1
+0020F-63;Fusible tipo neozed de 63a;-120;-44427.6;1
+0020G1-01;Grampa para tierra g1-01 10/35mm²;50;45285.45;1
+0020G1-02;Grampa para tierra g1-02 50/95mm²;9;12763.26;1
+0020GD-1;Grampa dentada bronce gd-1 6/25mm²;17;27899.62;1
+0020GD-2;Grampa dentada bronce gd-2 16/50mm²;6;10471.06;1
+0020GD-3;Grampa dentada bronce gd-3 25/70mm²;10;30678.54;1
+0020HM-1;Pinza hm-1 p/identar.pelar.cortar;3;20300.21;1
+0020HM-5;Pinza hm5 p/identar 1.5-10mm;5;34141;1
+0020LY-05H;Pinza comprime conector para coaxil;1;30745.31;1
+0020LY-25-3;Pelacable rango ø28/35mm;3;43358.31;1
+0020LY-332;Pelacable para coaxil giratorio;1;11736.17;1
+0020PKD-14;Morseto derivacion bim.aislado 25/95 a 4/16;135;104876.7;1
+0020PKD-16;Morseto deriv. estanco 25/95 a 25/95 aluminio;39;37779.43;1
+0020PKD-16A;Morseto deriv. estanco 25/95 a 25/95 aluminio;31;35861.12;1
+0020PKD-20;Pinza de anclaje hasta 4x16;100;84327;1
+0020PKD-20C;Pinza de anclaje p/concentrico;100;53105.2;1
+0020PKD-30160;Abrazadera poste 16cm;12;9229.51;1
+0020PKR-30;Abrazadera para poste con escote 12cm;100;221849.2;1
+0020PKR-32;Abrazadera para poste con escote 16cm;50;121487.5;1
+0020S160-3;Soporte triple para seccionador de 160A;1;3511.05;1
+0020SBT-160T;Seccionador unipolar para fusible NH. hasta 160A.;3;35673.6;1
+0020SCA300;"Terminal sca alum.300mm2 5/8""";16;32336.8;1
+0020SCB120;Terminal scb bimetal.120mm2;8;30106.8;1
+0020SCB50;Terminal scb bimetal.50mm2;10;15749.4;1
+0020SCB70;Terminal scb bimetal.70mm2;3;6511.38;1
+0020SCC1.5/3;"Terminal cobre scc 1.5 mm² ø3/16""";340;26542.99;1
+0020SCC10/1;"Terminal cobre scc 10 mm² ø3/16""";160;39318.07;1
+0020SCC10/2;"Terminal cobre scc 10 mm² ø1/4""";1488;344462.21;1
+0020SCC10/3;"Terminal cobre scc 10 mm² ø5/16""";1754;422092.24;1
+0020SCC120/0;"Terminal cobre scc 120 mm² ø3/8""";7;26216.65;1
+0020SCC120/1;"Terminal cobre scc 120 mm² ø1/2""";18;39063.72;1
+0020SCC120/2;"Terminal cobre scc 120 mm² ø5/8""";63;128006.81;1
+0020SCC150/0;"Terminal cobre scc 150 mm² ø3/8""";125;332108.04;1
+0020SCC150/1;"Terminal cobre scc 150 mm² ø1/2""";46;138333.6;1
+0020SCC150/2;"Terminal cobre scc 150 mm² ø5/8""";8;24107.62;1
+0020SCC16/1;"Terminal cobre scc 16 mm² ø1/4""";436;146838.98;1
+0020SCC16/2;"Terminal cobre scc 16 mm² ø5/16""";1517;471298.87;1
+0020SCC16/3;"Terminal cobre scc 16 mm² ø3/8""";550;175917.02;1
+0020SCC185/0;"Terminal cobre scc 185 mm² ø3/8""";15;56031.81;1
+0020SCC185/1;"Terminal cobre scc 185 mm² ø1/2""";20;57353.28;1
+0020SCC185/2;"Terminal cobre scc 185 mm² ø5/8""";26;94054.8;1
+0020SCC2.5/1;"Terminal cobre scc 2.5 mm² ø5/32""";571;36572;1
+0020SCC2.5/2;"Terminal cobre scc 2.5 mm² ø3/16""";3470;266615.98;1
+0020SCC240/1;"Terminal cobre scc 240 mm² ø1/2""";93;558251.7;1
+0020SCC240/2;"Terminal cobre scc 240 mm² ø5/8""";59;299890.7;1
+0020SCC25/1;"Terminal cobre scc 25 mm² ø1/4""";224;82538.35;1
+0020SCC25/2;"Terminal cobre scc 25 mm² ø5/16""";525;178543.13;1
+0020SCC25/3;"Terminal cobre scc 25 mm² ø3/8""";310;109179.25;1
+0020SCC25/4;"Terminal cobre scc 25 mm² ø1/2""";53;19027.57;1
+0020SCC300/2;"Terminal cobre scc 300 mm² ø5/8""";16;132265.23;1
+0020SCC35/0;"Terminal cobre scc 35 mm² ø1/4""";12;6716.43;1
+0020SCC35/1;"Terminal cobre scc 35 mm² ø5/16""";529;285912.46;1
+0020SCC35/2;"Terminal cobre scc 35 mm² ø3/8""";384;197912.87;1
+0020SCC35/3;"Terminal cobre scc 35 mm² ø1/2""";559;343358.46;1
+0020SCC4/1;"Terminal cobre scc 4 mm² ø5/32""";360;30127.27;1
+0020SCC4/2;"Terminal cobre scc 4 mm² ø3/16""";1507;134457.15;1
+0020SCC50/0;"Terminal cobre scc 50 mm² ø1/4""";20;15149.88;1
+0020SCC50/1;"Terminal cobre scc 50 mm² ø5/16""";96;65982.68;1
+0020SCC50/2;"Terminal cobre scc 50 mm² ø3/8""";203;146201.35;1
+0020SCC50/3;"Terminal cobre scc 50 mm² ø1/2""";173;130903.27;1
+0020SCC6/1;"Terminal cobre scc 6 mm² ø3/16""";161;16783.88;1
+0020SCC6/2;"Terminal cobre scc 6 mm² ø1/4""";2178;259204.4;1
+0020SCC70/0;"Terminal cobre scc 70 mm² ø5/16""";136;144537.33;1
+0020SCC70/1;"Terminal cobre scc 70 mm² ø3/8""";165;184825.58;1
+0020SCC70/2;"Terminal cobre scc 70 mm² ø1/2""";622;705814.95;1
+0020SCC70/3;"Terminal cobre scc 70 mm² ø5/8""";15;18638.24;1
+0020SCC95/0;"Terminal cobre scc 95 mm² ø3/8""";91;152330.77;1
+0020SCC95/1;"Terminal cobre scc 95 mm² ø1/2""";170;262353.31;1
+0020TEC3;Empalme conito tec3 hasta 2x2.5;100;5372.89;1
+0020UCA35;Union uca alum.35mm2;2;208.83;1
+0020UCA70;Union uca alum.70mm2;4;816.67;1
+0020UCC1.5;Union cobre ucc 1.5;168;26048.64;1
+0020UCC10;Union cobre ucc 10;867;181283.53;1
+0020UCC120;Union cobre ucc 120;50;98681.66;1
+0020UCC150;Union cobre ucc 150;2;5450.29;1
+0020UCC16;Union cobre ucc 16;368;97405.15;1
+0020UCC2.5;Union cobre ucc 2.5;649;67329.12;1
+0020UCC240;Union cobre ucc 240;1;5285.9;1
+0020UCC25;Union cobre ucc 25;176;53194.5;1
+0020UCC35;Union cobre ucc 35;46;22108.93;1
+0020UCC4;Union cobre ucc 4;603;68069.84;1
+0020UCC50;Union cobre ucc 50;19;14782.33;1
+0020UCC6;Union cobre ucc 6;1294;147879.18;1
+0020UCC95;Union cobre ucc 95;17;21397.41;1
+0021A3;Fuente onda completa exterior;2;22557.45;1
+0022BD21;"Boquilla aluminio delga r.e.3/4""";540;52216.09;1
+0022BD31;"Boquilla aluminio delga r.e.1""";20;3063.34;1
+0022BD53;"Boquilla aluminio delga r.g.1 1/2""";40;28621.4;1
+0022BD78;"Boquilla aluminio delga r.e.7/8""";36;4426.75;1
+0022BDN33;"Boq. alum. c/neutro y torn. fijacion 1""  g";300;471308.6;1
+0022BDN53;"Boq. alum. c/neutro y torn. fijacion 1 1/2""  g";300;566155.85;1
+0022BDN63;"Boq. alum. c/neutro y torn. fijacion 2""  g";300;747155.1;1
+0022EXGUAL27;Caja redonda exgual27;8;62418.04;1
+0022EXPO3037;"Tapon ape 1"" npt";8;14788.71;1
+0022EXREF2717;"Reduccion m-h 3/4 - 1/2"" ape";15;47212.24;1
+0022EXREF3727;"Reduccion m-h 1 - 3/4"" ape";10;39419.54;1
+0022EXUMBHH27;Union doble hh 3/4;10;80424.62;1
+0022EXUMBHH37;"UNION DOBLE HEMBRA-HEMBRA de HIERRO ZINCADO 1"" NPT";10;104076.13;1
+0022THZ13;"Tuerca hierro galvanizado delga r.g.1/2""";5;500.96;1
+0022THZ21;"Tuerca hierro zincado delga r.e.3/4""";680;33324.69;1
+0022THZ31;"Tuerca hierro zincado delga r.e.1""";20;2329.87;1
+0022THZ78;"Tuerca hierro zincado delga r.e.7/8""";36;3339.48;1
+0029010;Pulsador lum.completo pulsaluz presion;9;10898.25;1
+0029012;Modulo pulsador lum.pulsaluz;60;36061.52;1
+0029014;Bastidor para 1 modulo pulsaluz;60;18530.51;1
+0029016;Tapa 1 punto pulsaluz;52;16085.99;1
+00297001E;Automatico escalera 7001 esa electronico;5;47693.94;1
+0029AE10;Aut.pulsaluz elect.general;3;26472.15;1
+0029AE1200;Aut.pulsaluz elect.ind.c/fus+regul+rele;63;397568.32;1
+00341PF1;"Pararrayo 1 puntas c/base 1"" p/mastil";40;2151800.84;1
+00345PF3/4;Pararrayo 5 puntas c/base 3/4 p/mastil;5;265441.69;1
+0034A1615-250;Jabalina iram 2309 acoplada-16 5/8 x 1.5 metros;6;66819.72;1
+0034A1815-250;Jabalina iram 2309 acoplada-18 3/4 x 1.5 metros;5;63711.41;1
+0034AO/CU35;Cable acero-cobre 35mm;280;739641.88;1
+0034AO/CU50;Cable acero-cobre 50mm;500;1987040.75;1
+0034AO/CU95;Cable acero-cobre 95mm;338;2549954.84;1
+0034C150;Carga 150;12;103839.32;1
+0034C45;Carga 45;10;31546.17;1
+0034C90;Carga 90;81;431841.17;1
+0034CAJACH;Caja inspeccion para jabalina 15x15x6;10;74869.59;1
+0034CAJAL;Caja inspeccion para jabalina 25x25x4;23;330087.63;1
+0034CAJAP;Caja inspeccion para jabalina 25x25x10;2;35952.26;1
+0034GRC-1250;Molde GRC-1250;1;127187.11;1
+0034L1010-250;Jabalina iram 2309 lisa-10 3/8 x 1 metro;163;579679.07;1
+0034L1015-250;Jabalina iram 2309 lisa-10 3/8 x 1.5 metros;47;260688.02;1
+0034L1415-250;Jabalina iram 2309 lisa-14 1/2 x 1.5 metros;66;540662.9;1
+0034L1420-250;Jabalina iram 2309 lisa-14 1/2 x 2 metros;9;96665.28;1
+0034L1615-250;Jabalina iram 2309 lisa-16 5/8 x 1.5 metros;43;386758.49;1
+0034L1620-250;Jabalina iram 2309 lisa-16 5/8 x 2 metros;4;46123.33;1
+0034L1630-250;Jabalina iram 2309 lisa-16 5/8 x 3 metros;3;56534.13;1
+0034L1815-250;Jabalina iram 2309 lisa-18 3/4 x 1.5 metros;212;2617345.32;1
+0034L1820-250;Jabalina iram 2309 lisa-18 3/4 x 2 metros;15;221057.41;1
+0034L1830-250;Jabalina iram 2309 lisa-18 3/4 x 3 metros;38;876964.35;1
+0034M16;"Manguito-iram 16 5/8""";3;27889.86;1
+0034M18;"Manguito-iram 18 3/4""";5;57735.5;1
+0034MA160;Manija L 160;2;114775.08;1
+0034MC;Molde c;1;128045.97;1
+0034S14;"Sufridera-iram 14 1/2""";1;3433.09;1
+0034S16;"Sufridera-iram 16 5/8""";2;7669.22;1
+0034S18;"Sufridera-iram 18 3/4""";3;13164.92;1
+0034T1;"Tomacable-iram 3/8""";205;911503.67;1
+0034T2;"Tomacable-iram 1/2""";77;472756.91;1
+0034T22;"Tomacable-iram 5/8""";58;368299.87;1
+0034T3;"Tomacable-iram 3/4"" hasta 50mm2";90;736566.68;1
+0034T4;"Tomacable-iram 3/4"" p/cable + de 50mm2";21;192466.7;1
+0038ACC10-3;"Terminal cobre scc 10 mm² ø5/16""";200;47429.92;1
+0038ACC70-1;"Terminal cobre scc 70 mm² ø3/8""";2;2057.43;1
+0038LF150-250;Lamina fusible 250v de 150a.;100;162792.65;1
+0038PH100-2;Puntera Hueca Preais. Doble 1.00 mm2 ROJO;500;13063.45;1
+0038PH250-2;Puntera Hueca Preais. Doble 2.50 mm2 GRIS;100;5351.26;1
+0038ZCC6;Union cobre estañada 6mm;50;3831.1;1
+0041101;"Union 1"" pvc blanco";961;55926.86;1
+004110112;"Union 1 1/2"" pvc blanco";15;3988.51;1
+004110114;"Union 1 1/4"" pvc blanco";128;28187.54;1
+0041102;"Union 2"" pvc blanco";3;946.84;1
+00411034;"Union 3/4"" pvc blanco";2334;98676.6;1
+00411058;"Union 5/8"" pvc blanco";5;215.62;1
+00411078;"Union 7/8"" pvc blanco";1964;102873.78;1
+0041121;"Curva 1"" pvc blanco";444;53346.97;1
+004112112;"Curva 1 1/2"" pvc blanco";12;3818.43;1
+0041122;"Curva 2""  pvc blanco";12;5661.22;1
+00411234;"Curva 3/4"" pvc blanco";732;50539.23;1
+00411258;"Curva 5/8"" pvc blanco";12;854.95;1
+00411278;"Curva 7/8"" pvc blanco";38;3899.39;1
+004131;"Caño flexible 1"" ignifugo blanco norma 320";5064;847266.23;1
+00413112;"Caño flexible 1 1/2"" ignifugo blanco norma 320";233;74031.47;1
+00413114;"Caño flexible 1 1/4"" ignifugo blanco norma 320";888;204588.77;1
+004132;"Caño flexible 2"" ignifugo blanco norma 320";287;135808.96;1
+0041334;"Caño flexible 3/4""  ignifugo blanco norma 320";6031;666870;1
+0041358;"Caño flexible 5/8""  ignifugo blanco norma 320";493;51947.21;1
+0041378;"Caño flexible 7/8""  ignifugo blanco norma 320";2897;409877.89;1
+004141;"Caño flexible 1""  ignifugo loza norma 750";1140;343320.28;1
+00414112;"Caño flexible 1 1/2""  ignifugo loza norma 750";200;139775.84;1
+00414114;"Caño flexible 1 1/4""  ignifugo loza norma 750";175;93642.75;1
+004142;"Caño flexible 2""  ignifugo loza norma 750";50;43582.86;1
+0041434;"Caño flexible 3/4""  ignifugo loza norma 750";2325;384155.95;1
+0041478;"Caño flexible 7/8""  ignifugo loza norma 750";2175;472535.71;1
+0041509;"Caño flexible 1/2"" con corte pvc";525;103235.48;1
+004151;"Caño flexible 1""  ignifugo loza norma 1250";50;18412.53;1
+0041513;"Caño flexible 3/4"" con corte pvc";100;26045.35;1
+0041519;"Caño flexible 1"" con corte pvc";100;33968.38;1
+0041534;"Caño flexible 3/4""  ignifugo loza norma 1250";225;50693.6;1
+0041578;"Caño flexible 7/8""  ignifugo loza norma 1250";125;35213.69;1
+004191;"Caño rigido 1"" pvc blanco";699;140559.06;1
+00419112;"Caño rigido 1 1/2"" pvc blanco";42;16309.3;1
+004192;"Caño rigido 2"" pvc blanco";64;36669.33;1
+0041934;"Caño rigido 3/4"" pvc blanco";612;79365.44;1
+0041958;"Caño rigido 5/8"" pvc blanco";174;23654.32;1
+0041978;"Caño rigido 7/8"" pvc blanco";195;36842.38;1
+004616;Conm.3x20a n16 varios usos apta cortinas alum;6;80793.22;1
+004616A;Conm.3x20a n16 varios usos apta cortinas polic;1;11275.2;1
+00510205/B;Zocalo simple a clip 11.5mm con bornera - oferta;30;13727.04;1
+00510205/C;Zocalo combinado a clip estilo europeo;6;1643.2;1
+00510205/S;Zocalo simple a clip estilo europeo;512;101908.46;1
+00510209/JL-OF;Juego zocalos p/tubo led - oferta;210;67606.27;1
+00510209/S;Zocalo simple corto;332;71703.05;1
+00510402/J;Juego zocalos 105w;10;7634.3;1
+00510402/KL;Juego zocalos 105w cableado;4;4740.68;1
+00510421/J;Juego zocalo arrime con escuadra;60;40925.43;1
+00510425/S;Zocalo de arrime c/base 9.3mm;200;53508;1
+00510430;Zocalo para tubo redondo;1;287.93;1
+00510441/S;Zocalo flexible;147;33451.75;1
+00510704;Zocalo para lamp.compacta tipo l 2g11;1;539.47;1
+00510801/PA;Soporte para tubo t8;1;99.22;1
+00510801/PC;Soporte para tubo t8;2;258.65;1
+00510901;Chicoleta pvc;2;29.95;1
+005240X40X20E;CAJA CONEX.NEGRA CIEGA 40X40X20;10;391500;1
+005240X40X35E;CAJA CONEX.NEGRA CIEGA 40X40X35;14;623700;1
+005260X20X20E;CAJA CONEX.NEGRA CIEGA 60X20X20;10;391500;1
+005260X20X35E;CAJA CONEX.NEGRA CIEGA 60X20X35;14;623700;1
+0053D210C;Tornillo bastidor corto 7/8'';900;9538.11;1
+0053F100A;"Grampa 5/8"" tipo olmar 16";72;18509.09;1
+0053F100B;"Grampa 3/4"" tipo olmar 19";174;46921.52;1
+0053F100C;"Grampa 7/8"" tipo olmar 23  apto 1/2 gas";75;22405.98;1
+0053F100D;"Grampa 1"" tipo olmar 26  apto 3/4 gas";12;3315.12;1
+0053F100E;"Grampa 1 1/4"" tipo olmar 32  apto 1"" gas";107;35898.56;1
+0053F100H;"Grampa 2 1/2"" tipo olmar 65  apto 2 gas";130;59183.26;1
+0053F101B;Riel tipo olmar 1.22 mt.chapa 0.9mm;328;878196.31;1
+0053F102A;Riel din 35mm co-re x 1 mt.;135.2;177760.24;1
+0053F102B;Riel din 35mm co-re x 1 mt. troquelado;15.9;23646.24;1
+0053F103A;Grampa Omega 5/8'';40;589.42;1
+0053F103C;Grampa Omega 7/8'';6;216.28;1
+0053F103F;Grampa Omega 1 1/2'';30;1997.19;1
+0053F104H;Grampa Media Omega 1 1/2'' liviana;2;203.28;1
+0053T5-12W;Liston led interconectable c/tecla 12w luz dia;5;43521.34;1
+0053T5-16W;Liston led interconectable c/tecla 16w luz dia;2;17306.7;1
+0053T5-5W;Liston led interconectable c/tecla 5w luz dia;7;41768.42;1
+0053T5-8W;Liston led interconectable c/tecla 8w luz dia;1;6973.48;1
+00551.10;Caja chapa rectangular semipesada ch 18;119;35872.3;1
+00551.11;Caja chapa octogonal chica semipesada ch 18;30;9205.53;1
+00551.19;Caja chapa rectangular profunda liv.;3;1137.88;1
+00551.22;Caja chapa rectangular para durlock;52;8766.09;1
+00551.3;Caja chapa octogonal grande liviana;21;10546.31;1
+00551.4;Caja chapa 10x10 liviana;112;51741.53;1
+0055100018;Caja chapa rectangular liviana aluminizada;2805;410667.08;1
+0055100020;Caja chapa octogonal chica liviana aluminizada;1253;186687.46;1
+0055100021;Caja chapa 5x5 liviana aluminizada;380;53631.41;1
+00552.2;"Conector hierro 3/4""";4080;410900.6;1
+00552.3;"Conector hierro 7/8""";893;212258.67;1
+00552.4;"Conector hierro 1""";684;142435.35;1
+00552.5;"Conector hierro 1 1/4""";14;10719.53;1
+00552.6;"Conector hierro 1 1/2""";40;26834.65;1
+00552.7;"Conector hierro 2""";19;18598.69;1
+00558.1;Tapa hierro oct. chica zincada;44;5148.53;1
+00558.2;Tapa hierro oct. grande zincada;3;482.73;1
+00558.3;Tapa hierro 10x10 zincada;25;3833.95;1
+0057101P;Campana  alarma roja 10cm 220 / 12vca;6;61230.51;1
+0057102P;Campana alarma roja 10cm 220vca;3;28162.05;1
+0057151;Campana 15cm 220v/12vca mjk;2;36817.9;1
+0057151P;Campana 15cm 220v/12vca pintada mjk;2;27066.19;1
+0057152;Campana 15cm 220vca mjk;1;16340.94;1
+0057152P;Campana 15cm 220vca pintada mjk;2;23177.5;1
+0057201P;Campana 20cm 220v/12vca base pvc mjk;2;47260.2;1
+0057212;Llamador mus.scuare 220/12v mjk;7;77622.98;1
+0057213;Llamador mus.scuare 220/12v cuadrado mjk;1;14049.29;1
+0057236;Zumbador rectangular mjk;7;43059.33;1
+0057237;Campanilla rectangular mjk;10;67411.96;1
+0057326;"Din dong ""a"" electronico 220/12v mjk";5;61638.57;1
+0057493;Zumbador 10x10 mjk;5;28885.01;1
+0057494;Campanilla 10x10 mjk;22;159790.51;1
+0057495;Campanilla dos sonidos 10x10 mjk;1;12531.96;1
+0057902;Camp.marinera 90 220vca mjk;9;62325.59;1
+0057M0A;Campanilla embutir 10x10 mjk;3;26267.13;1
+0057M1A;Zumbador embutir 10x10 mjk;142;1004053.38;1
+0057Z12;Zumbador conico 12vca directo mjk;5;16993.44;1
+0059BO-C01-B5;Bobina 3tb40/44-3tf40/43 ca.mc1-09/12/16/22 24vca;1;4433.93;1
+0059BO-C01-H5;Bobina 3tb40/44-3tf40/43 ca.mc1-09/12/16/22 220vca;2;9579.48;1
+0059EC-10-10-B5;Contactor EC 10a 24v;28;146031.28;1
+0059EC-10-10-H5;Contactor EC 10a 220v;40;200403.29;1
+0059EC-10-10-I5;Contactor EC 10a 380v;2;11330.97;1
+0059EC-12-10-B5;Contactor EC 12a 24v;13;80543.38;1
+0059EC-12-10-F5;Contactor EC 12a 110v;1;5725.39;1
+0059EC-12-10-H5;Contactor EC 12a 220v;18;108900.11;1
+0059EC-16-10-B5;Contactor EC 16a 24v;12;82134.35;1
+0059EC-16-10-F5;Contactor EC 16a 110v;2;12774.14;1
+0059EC-16-10-H5;Contactor EC 16a 220v;16;103401.46;1
+0059EC-16-10-I5;Contactor EC 16a 380v;1;6407.09;1
+0059EC-22-10-B5;Contactor EC 22a 24v;7;65402.08;1
+0059EC-22-10-F5;Contactor EC 22a 110v;6;53674.69;1
+0059EC-22-10-H5;Contactor EC 22a 220v;18;163706.72;1
+0059MB3-T00;Base nh montero 160a.t00;68;138270.26;1
+0059MB3-T01;Base nh montero 250a.t1;3;18306.51;1
+0059MB3-T02;Base nh montero 400a.t2;12;70612.43;1
+0059MC1-T40-09-T0H5;Cont.tetrapolar-t40-09-t0-h5 ac1 20a ac3 9a;1;8370.14;1
+0059MC2-10-10-T0-B5;Contactor t0 mc2-10 1na 5.4hp 24v;4;30389.76;1
+0059MC2-12-10-T0-H5;Contactor t0 mc2-12 1na 7.5hp 220v;3;21046.25;1
+0059MC2-16-10-T0-H5;Contactor t0 mc2-16 1na 10hp 220v;1;11372.67;1
+0059MC2-22-10-T0-B5;Contactor t0 mc2-22 1na 13.6hp 24v;1;8637.3;1
+0059MC2-25-00-T1-B5;Contactor t1 mc2-25 15hp 24v;7;97898.88;1
+0059MC2-25-00-T1-F5;Contactor t1 mc2-25 15hp 110v;4;51068.25;1
+0059MC2-25-00-T1-H5;Contactor t1 mc2-25 15hp 220v;19;197307.81;1
+0059MC2-32-00-T1-B5;Contactor t1 mc2-32 20hp 24v;1;17294.84;1
+0059MC2-32-00-T1-H5;Contactor t1 mc2-32 20hp 220v;12;195925.64;1
+0059MC2-50-00-T2-H5;Contactor t2 mc2-50 30hp 220v;0;0;1
+0059MC2-65-21E-T3B5;Contactor t3 mc2-65 2na +1nc 40hp 24v;6;334288.64;1
+0059MC2-65-21E-T3H5;Contactor t3 mc2-65 2na +1nc 40hp 220v;2;100753.06;1
+0059MC2-AUX-DUO;Contacto auxiliar reversible para mc2;70;89436.62;1
+0059MC2-AUX-L;Bloque de contactos auxiliar lateral;2;5366.71;1
+0059MC2-EM;Enclavamiento mecanico p/contactor mc2;1;4984.05;1
+0059MDA-R-20-20-H5;Contactor modular 2p NA 20A 1 mod 220VCA;5;54311.27;1
+0059ME-ET-30;Rele de tiempo 2-30s.p/estrella triang.ME-ET-30;8;153407.6;1
+0059ME-PR-10;Rele trif.falta fase-invers-A/B fijo ME-PR-10;6;139725.72;1
+0059ME-PR-10V;Rele trif.falta fase-invers-A/B reg.ME-PR10-V;16;559770.58;1
+0059ME-PR-A;Rele trif. Falta e inv de fase-asimetria reg.;1;19246.91;1
+0059ME-PRT-M;Protector multiuso enchufable 2500w;14;93839.07;1
+0059ME-TM-7;Temp.multif.24/220vca 24vcc 0.6seg/30hs ME-TM-7;1;19577.61;1
+0059ME-TMF-7;Temp.multif.+cicl+Ret Conex y Desco. 24vca/cc 220v;0;0;1
+0059ME-TMF-7V;Temp. multif oscilador simetrico / asimetrico;2;54391.22;1
+0059MG1-1.6A;Guardamo.mg1-1.6a rango de 1.00 a 1.6a;1;16205.03;1
+0059MG1-6.3A;Guardamo.mg1-6.3a rango de 4 a 6.3a;1;16537.2;1
+0059MI-T00;Base nh tripolar montero 160a.t00;40;259018.9;1
+0059MX-T01-E;Casetina p/contactores mxt01e 3000;18;133969.8;1
+0059PCAPUCHONIP67;Capuchon protector ip67;5;2355.93;1
+0059PCRC01E;Botonera monolitica 1nc roja ip65;4;4591.85;1
+0059PCVC10E;Botonera monolitica 1na verde ip65;5;5530.2;1
+0059PLED-ILRF;Indicador luminoso mp1 led il-r-f (110vcc/vca) (1);2;1620.12;1
+0059PLED-ILVF;Indicador luminoso mp1 led il-v-f (110vcc/vca) (1);1;810.06;1
+0059PMODCON01E;Modulo 1nc;13;10266.47;1
+0059PMODCON10E;Modulo 1na;38;30406.28;1
+0059PMODCON11E;Modulo 1na+1nc;2;1759.41;1
+0059PMODCON20E;Modulo 2na;1;1435.65;1
+0059PMODE;Cabezal golpe de puño con ret.ip65;3;5339.89;2
+0059PMODSC2;Cabezal selector 2 pos.maneta corta ip65;36;54755.68;2
+0059PMODSC3;Cabezal selector 3 pos.maneta corta ip65;1;2067.34;2
+0059PMODSL2;Cabezal selector 2 pos.maneta larga ip65   7214;15;23844.33;2
+0059PMODT1;Cuerpo fijacion para botoneras d.22 pvc+metal;40;24778.83;2
+0059PMODT2;Cuerpo fijacion para botoneras d.22 pvc;19;7572.8;2
+0059PS-T00;Placa separadora intermedia para nh t00;72;77164.81;2
+0059PS-T00L;Placa separadora lateral para nh t00;2;1556.25;2
+0059TR1-T0-10A;Rele termico tr1-t0 6.3-10a. tipo 3ua50;16;167035.8;2
+0059TR1-T0-12.5A;Rele termico tr1-t0 8-12.5a. tipo 3ua50;11;116462.67;2
+0059TR1-T0-16A;Rele termico tr1-t0 10-16a. tipo 3ua50;4;41238.94;2
+0059TR1-T0-1A;Rele termico tr1-t0 0.63-1a. tipo 3ua50;1;7853.42;2
+0059TR1-T0-2.5A;Rele termico tr1-t0 1.6-2.5a. tipo 3ua50;1;8703.28;2
+0059TR1-T0-4A;Rele termico tr1-t0 2.5-4a. tipo 3ua50;8;73741.58;2
+0059TR1-T0-6.3A;Rele termico tr1-t0 4-6.3a. tipo 3ua50;6;53461.52;2
+0059TR1-T1-10A;Rele termico tr1-t1 6.3-10a. tipo 3ua52;4;37653.42;2
+0059TR1-T1-12.5A;Rele termico tr1-t1 8-12.5a. tipo 3ua52;1;9740.58;2
+0059TR1-T1-16A;Rele termico tr1-t1 10-16a. tipo 3ua52;7;72273.96;2
+0059TR1-T1-25A;Rele termico tr1-t1 16-25a. tipo 3ua52;3;25836.16;2
+0059TR1-T1-32A;Rele termico tr1-t1 20-32a. tipo 3ua52;1;8050;2
+0059TR1-T1-4A;Rele termico tr1-t1 2.5-4a. tipo 3ua52;1;10703.47;2
+0059TR1-T2-20A;Rele termico tr1-t2 12.5-20a. tipo 3ua55;2;30743.62;2
+0059TR1-T2-32A;Rele termico tr1-t2 20-32a. tipo 3ua55;1;14728.63;2
+0060BL1;Microcontacto neumann bl-1;32;82695.65;2
+0060BL2;Microcontacto neumann bl-2;15;44855.57;2
+0060BL3;Microcontacto neumann bl-3;23;75313.01;2
+0060BLR1;Microcontacto neumann blr-1;14;58992.51;2
+0060BLR9;Microcontacto neumann blr-9;8;25651.52;2
+0060CB132;Limite de carrera neumann cb-132;1;10360.9;2
+0060FK1000;Cuerpo solo limite linea fk1000 p/armar;29;343814.84;2
+0060FK1001-SET;Set de palanca-tapa-tornillo p/fk-1001;5;13265.27;2
+0060FK1002-SET;Set de palanca-tapa-tornillo p/fk-1002;4;11827.6;2
+0060FK1003-SET;Set de palanca-tapa-tornillo p/fk-1003;5;12716.38;2
+0060FK1005-SET;Set de palanca-portap-tapa-tornillo p/fk-1005;11;39516.4;2
+0060FK1006;Limite de carrera neumann fk-1006 armado;2;52341.06;2
+0060FK1006-SET;Set de palanca-portap-tapa-tornillo p/fk-1006;3;11010.68;2
+0060FK1007;Limite de carrera neumann fk-1007 armado;0;0;2
+0060FK1007-SET;Set de palanca-portap-tapa-tornillo p/fk-1007;3;10781.82;2
+0060FK1050;Limite de carrera neumann fk-1050 armado;16;459677.75;2
+0060FK1060;Limite de carrera neumann fk-1060 armado;8;250990.65;2
+0060FK1070;Limite de carrera neumann fk-1070 armado;11;343256.43;2
+0060FK1091;Limite de carrera neumann fk-1091 armado;3;85764.86;2
+0060FKP1000;Cuerpo solo limite pvc fkp1000 p/armar;29;103755.02;2
+0060FKP1001;Set fkp-1001 (palanca+tapa+tornillos);1;1236.47;2
+0060FKP1005;Set fkp-1005 (palanca+portapalanca+tapa+tornillos);2;2626.44;2
+0060FKP1006;Set fkp-1006 (palanca+portapalanca+tapa+tornillos);16;20789.81;2
+0060FKP1008/45;Set fkp-1008/45 (palanca+portapalanca+tapa+tornill;10;14120.94;2
+0060FKP1070;Limite carrera pvc fkp-1070 armado;5;45654.39;2
+0060MP2;Microcontacto neumann mp-2;36;91545.87;2
+0060MPH3R;Microcontacto neumann mph-3r;3;8414.45;2
+0060MPR2A;Microcontacto neumann mpr-2a;25;87311.48;2
+0060MPR2C;Microcontacto neumann mpr-2c;4;13917.4;2
+0060MPR2I;Microcontacto neumann mpr-2i;8;21232.59;2
+0060MPR2L;Microcontacto neumann mpr-2l;16;47399.07;2
+0060MPR2M;Microcontacto neumann mpr-2m;32;99369.03;2
+0060X1BASICO;Microcontacto neumann x-1;5;3403.21;2
+0060X1PLR-S;Microcontacto neumann x1plr-s;1;1099.76;2
+0060X1PRLR-C;Microcontacto neumann x1prlr-c;1;1669.39;2
+0060Z8;Cubremicro neumann z-8;3;600.74;2
+00641X1.5B;Cable superastic flex 1x1.5 blanco;100;28624.06;2
+00641X1.5C;Cable superastic flex 1x1.5 celeste;200;67879.14;2
+00641X1.5M;Cable superastic flex 1x1.5 marron;300;96503.2;2
+00641X1.5N;Cable superastic flex 1x1.5 negro;200;67879.14;2
+00641X1.5R;Cable superastic flex 1x1.5 rojo;100;33939.57;2
+00641X1.5VA;Cable superastic flex 1x1.5 ver/ama;100;28624.06;2
+00641X10C;Cable superastic flex 1x10 celeste;10;19824.35;2
+00641X10R;Cable superastic flex 1x10 rojo;5;9912.17;2
+00641X120N;Cable superastic flex 1x120 negro;1;25388.51;2
+00641X1B;Cable superastic flex 1x1 blanco;100;17875.52;2
+00641X1C;Cable superastic flex 1x1 celeste;400;71502.08;2
+00641X1M;Cable superastic flex 1x1 marron;200;42121.65;2
+00641X1N;Cable superastic flex 1x1 negro;200;42195.88;2
+00641X1R;Cable superastic flex 1x1 rojo;400;84322.63;2
+00641X2.5C;Cable superastic flex 1x2.5 celeste;500;233579.5;2
+00641X2.5M;Cable superastic flex 1x2.5 marron;400;193697.25;2
+00641X2.5N;Cable superastic flex 1x2.5 negro;200;93989.41;2
+00641X2.5R;Cable superastic flex 1x2.5 rojo;300;143178.88;2
+00641X2.5VA;Cable superastic flex 1x2.5 ver/ama;300;162287.32;2
+00641X4C;Cable superastic flex 1x4 celeste;100;70927.91;2
+00641X4M;Cable superastic flex 1x4 marron;0;0;2
+00641X4N;Cable superastic flex 1x4 negro;100;70927.91;2
+00641X4R;Cable superastic flex 1x4 rojo;0;0;2
+00641X6C;Cable superastic flex 1x6 celeste;100;104585.7;2
+00641X6N;Cable superastic flex 1x6 negro;100;104585.7;2
+00641X95N;Cable superastic flex 1x95 negro;20;348176.8;2
+0064AF1.5C;Cable afumex 750 ls0h 1x1.50 celeste;700;189565.12;2
+0064AF1.5M;Cable afumex 750 ls0h 1x1.50 marron;230;68020.1;2
+0064AF1.5VA;Cable afumex 750 ls0h 1x1.50 v/a;100;32657.89;2
+0064AF10003X35+N;Cable afumex 1000 3x35+n x mt.;10;260623.52;2
+0064AF10003X4;Cable afumex 1000 3x4 x mt.;75;247252.28;2
+0064AF2.5B;Cable afumex 750 ls0h 1x2.50 blanco;138;57492.73;2
+0064AF2.5C;Cable afumex 750 ls0h 1x2.50 celeste;30;15489.3;2
+0064AF2.5N;Cable afumex 750 ls0h 1x2.50 negro;30;15489.3;2
+0064AF2.5VA;Cable afumex 750 ls0h 1x2.50 v/a;30;15489.3;2
+0064AF4C;Cable afumex 750 ls0h 1x4 celeste;100;61755.34;2
+0064AF4M;Cable afumex 750 ls0h 1x4 marron;100;61755.34;2
+0064AF4VA;Cable afumex 750 ls0h 1x4 v/a;100;61755.34;2
+0064AF6N;Cable afumex 750 ls0h 1x6 negro;100;115665.17;2
+0077CE0750450KF4;Contrafrente entero 750x450 con 4 calados fijo;1;14339;2
+0077GA0250200100C;Gabinete estanco metalico 250x200x100 puerta ciega;1;11886.16;2
+0077GA0300250100C;Gabinete estanco metalico 300x250x100 puerta ciega;1;15507.62;2
+0077GA0600450225C;Gabinete estanco metalico 600x450x225 puerta ciega;1;46141.24;2
+0077GA0600450300C;Gabinete estanco metalico 600x450x300 puerta ciega;2;142310;2
+0077GA0750450150T;GABINETE ESTANCO METALICO 750X450X150 PUERTA TRANS;1;67649.43;2
+0077GA0750750225C;Gabinete estanco metalico 750x750x225 puerta ciega;2;218235.07;2
+0077PR1000/81;Caja paso pvc 155x110x76 ip65 blanca u.v.;74;153416.1;2
+0077PR1001/110;Caja paso pvc 155x110x104 ip65 blanca u.v.;62;130948.48;2
+0077PR1002/110;Caja paso pvc 200x150x104 ip65 blanca u.v.;47;130064.63;2
+0077PR1002/67;Caja paso pvc 200x150x61 ip65 blanca u.v.;8;20554.26;2
+0077PR1003/110;Caja paso pvc 200x200x104 ip65 blanca u.v.;101;375573.61;2
+0077PR1003/157;Caja paso pvc 200x200x150 ip65 blanca u.v.;11;45332.03;2
+0077PR1003/81;Caja paso pvc 200x200x75 ip65 blanca u.v.;54;178638.95;2
+0077PR1004/170;Caja paso pvc 295x295x150 ip65 blanca u.v.;14;125032.97;2
+0077PR1005/81;Caja paso pvc 200x150x76 ip65 blanca u.v.;75;200390.6;2
+0077PR1006/81;Caja paso pvc 150x150x76 ip65 blanca u.v.;68;157532.02;2
+0077PR1007/110;Caja paso pvc 150x150x104 ip65 blanca u.v.;66;162063.8;2
+0077PR1008/100;Caja paso pvc 270x150x90 ip65 blanca u.v.;27;155577.79;2
+0077PR1009/109;Caja paso pvc 270x285x100 ip65 blanca u.v.;17;132388.87;2
+0077PR1010/106;Caja paso pvc 300x230x100 ip65 blanca u.v.;18;112250.5;2
+0077PR1010/136;Caja paso pvc 300x230x130 ip65 blanca u.v.;23;193707.21;2
+0077PR1011/108;Caja paso pvc 268x420x98 ip65 blanca u.v.;9;125395.01;2
+0077PR1012/95;Caja paso pvc 231x164x95 ip65 blanca u.v.;5;16055.87;2
+0077PR401;Caja pvc ext.s/p 4/8 mod.din roker;1;2169.62;2
+0077PR403;Caja pvc emb.c/p fume 2/4 mod.din roker;33;64216.7;2
+0077PR404;Caja pvc emb.c/p fume 4/8 mod.din roker;44;129361.38;2
+0077PR408;Caja pvc ext.c/p fume 4/8 mod.din roker;70;276458.77;2
+0077PR409;Caja pvc ext.c/p fume 2/4 mod.din roker;66;125592.48;2
+0077PR411;Caja pvc ext.s/p 1/2 mod.din roker;11;9846.55;2
+0077PR412;Caja pvc emb.c/p fume 8/12 mod.din roker;45;252594.57;2
+0077PR413;Caja pvc ext.c/p fume 8/12 mod.din roker;71;489296.38;2
+0077PR416;Caja pvc emb.c/p fume 4/6 mod.din roker;6;16226.83;2
+0077PR420;Caja pvc ext.s/p 2/6 mod.din roker;5;6996.16;2
+0077PR421;Caja pvc ext.c/p blanca 1/2 mod.din roker;77;117117.16;2
+0077PR422;Caja pvc ext c/p fume 2/6 mod din roker;36;114306.24;2
+0077PR6010;Caja rect.pvc 80x130x46 roker p/cablecanal;9;11505.14;2
+0077PR616;Caja pvc ext.c/p fume 16 mod.din roker;6;48963.33;2
+0077PR622;Caja pvc ext.c/p fume 22 mod.din roker;4;31748.7;2
+0077PR628;Caja pvc ext.c/p fume 28 mod.din roker;1;13318.21;2
+0077PR816;Caja pvc emb.c/p fume 16 mod.din roker;29;198956.36;2
+0077PR822;Caja pvc emb.c/p fume 22 mod.din roker;14;88847.99;2
+0077PR828;Caja pvc emb.c/p fume 28 mod.din roker;3;20879.57;2
+0077PR994/35;Caja paso pvc 61x61x31 ip65 blanca u.v.;4;4598.48;2
+0077PR995/67;Caja paso pvc 158x89x62 ip65 blanca u.v.;4;7341.32;2
+0077PR996/54;Caja paso pvc 78x78x50 ip65 blanca u.v.;223;353097.35;2
+0077PR997/75;Caja paso pvc 79x78x70 ip65 blanca u.v.;163;232188.3;2
+0077PR998/50;Caja paso pvc 104x104x45 ip65 blanca u.v.;7;21661.43;2
+0077PR998/67;Caja paso pvc 104x104x62 ip65 blanca u.v.;101;151805.27;2
+0077PR998/81;Caja paso pvc 104x104x76 ip65 blanca u.v.;369;586363.03;2
+0077PR999/110;Caja paso pvc 104x104x104 ip65 blanca u.v.;108;220812.64;2
+0077PRD554;Gab estanco p/din 54 bocas 435x525x180 gris;2;60808.14;2
+0077PRE249;Caja estanca din ext c/puerta 3 modulos;1;4643.91;2
+0077PRE250;Caja estanca din ext c/puerta 4 modulos;12;61712.99;2
+0077PRE251;Caja estanca din ext c/puerta 7 modulos;9;48238.84;2
+0077PRE252;Caja estanca din ext c/puerta 9 modulos;57;413296.33;2
+0077PRE253;Caja estanca din ext c/puerta 12 modulos;7;78919.41;2
+0077PRE254;Caja estanca din ext c/puerta 18 modulos;52;691063.37;2
+0077PRE255;Caja estanca din ext c/puerta 24 modulos;4;69984.29;2
+0077PRE260/M;Gab.p/tomas (ciego) y 12 polos 28x30x11 ip55;11;187019.89;2
+0077PRE261/M;Gab.p/tomas (ciego) y 12 polos 28x43x11 ip55;10;227927.63;2
+0077PRE269;Caja estanca din emb c/puerta 3 modulos;1;4228.87;2
+0077PRE270;Caja estanca din emb c/puerta 4 modulos;2;10285.12;2
+0077PRE271;Caja estanca din emb c/puerta 7 modulos;2;11129.11;2
+0077PRE272;Caja estanca din emb c/puerta 9 modulos;3;23976.88;2
+0077PRE273;Caja estanca din emb c/puerta 12 modulos;8;83578.02;2
+0077PRE275;Caja estanca din emb c/puerta  24 modulos;4;71199.55;2
+0077PRE277;Caja estanca din emb c/puerta  36 modulos;1;29684.96;2
+0077PRG347;Gabinete 550x637x280 ip65 tapa gris;1;88198.12;2
+0077PRG348;Gabinete 395x495x155 ip65 tapa gris;1;34843.77;2
+0077PRG352/1;Gabinete 330x310x180 ip65 tapa cristal;1;26615.53;2
+0077PRG353;Gabinete 325x310x210 ip65 tapa gris;1;20171.83;2
+0077PRG356;Gabinete 245x230x145 ip65 tapa gris;1;12495.6;2
+0077R216;Tortuga plastica p/lamp 75w exterior;1;5154.94;2
+0077R500;Tapa cinco modulos din;25.3;43734.62;2
+0077RD0450X;Riel din 450;4;3146.23;2
+0077SO150;Soportes p/riel y porta elementos 150mm - kit x2;4;6143.36;2
+0077ZM510;Caja pvc din ip40 10 mod.exterior fume;9;70146.02;2
+0077ZM518;Caja pvc din ip40 18 mod.exterior fume;13;148003.13;2
+0077ZM524;Caja pvc din ip40 24 mod.exterior fume;16;204996.36;2
+0077ZM536;Caja pvc din ip40 36 mod.exterior fume;11;204691.6;2
+0077ZM548;Caja pvc din ip40 48 mod.exterior fume;2;59419.78;2
+0077ZM572;Caja pvc din ip40 72 mod.exterior fume;3;117732.54;2
+0077ZM710;Caja pvc din ip40 10 mod.embutir fume;5;34092.33;2
+0077ZM718;Caja pvc din ip40 18 mod.embutir fume;78;737343.35;2
+0077ZM724;Caja pvc din ip40 24 mod.embutir fume;21;301429.75;2
+0077ZM736;Caja pvc din ip40 36 mod.embutir fume;13;236915.01;2
+0077ZM748;Caja pvc din ip40 48 mod.embutir fume;8;194895.51;2
+0077ZM772;Caja pvc din ip40 72 mod.embutir fume;5;145805.25;2
+00811001;Tira de 12 bornes sybyd (s:2.5 ø2.0) 1001 negra;5;11579.04;2
+00811002;Tira de 12 bornes sybyd (s:6 ø4.0) 1002  negra;15;44172.76;2
+00821X1.5B;Sum cable norm 1x1.50 blanco;100;14506.24;2
+00821X10R;Sum cable norm 1x10 rojo;50;46570.14;2
+00821X16C;Sum cable norm 1x16 celeste;48;63763.18;2
+00821X1N;Sum cable norm 1x1 negro;100;15005.93;2
+00821X25VA;Sum cable norm 1x25 v/a;100;326070.51;2
+00821X35N;Sum cable norm 1x35 negro;48;144378.39;2
+00821X35R;Sum cable norm 1x35 rojo;96;288756.78;2
+00823X35+N;Sum Cable subterraneo 3x35+n;60;1063194.55;2
+00823X4;Sum Cable subterraneo 3x4;100;217738.95;2
+00823X6;Sum Cable subterraneo 3x6;550;938629.12;2
+00824X6;Sum Cable subterraneo 4x6;200;791621.2;2
+0082TT2X1;Sum cable tt 2x1;350;123296.51;2
+0082TT2X2.5;Sum cable tt 2x2.50;80;61605.7;2
+0082TT3X1.5;Sum cable tt 3x1.50;100;75080.7;2
+0082TT3X4;Sum cable tt 3x4;60;74474.9;2
+0082TT4X075;Sum cable tt 4x0.75;110;59285.36;2
+0084GL3F1;Cable fibra vidrio 1x1;3;1799.09;2
+0084GL3F4;Cable fibra vidrio 1x4;12;17568.67;2
+0084SIAF050C;Cable siliconado 1x0.50 celeste;103;14687.12;2
+0084SIAF050N;Cable siliconado 1x0.50 negro;120;19399.1;2
+0084SIAF050R;Cable siliconado 1x0.50 rojo;203;30918.33;2
+0084SIAF1.5M;Cable siliconado 1x1.5 marron;4;1686.91;2
+0084SIAF1.5N;Cable siliconado 1x1.5 negro;15;5120.64;2
+0084SIAF1C;Cable siliconado 1x1 celeste;100;22552.57;2
+0084SIAF1N;Cable siliconado 1x1 negro;15;4010.18;2
+0084SIAF1R;Cable siliconado 1x1 rojo;100;22552.57;2
+0084SIAF2.5C;Cable siliconado 1x2.5 celeste;262;174229.41;2
+0084SIAF2.5M;Cable siliconado 1x2.5 marron;10;6190.73;2
+0084SIAF2.5N;Cable siliconado 1x2.5 negro;215;144233.96;2
+0084SIAF2.5R;Cable siliconado 1x2.5 rojo;149;96898.98;2
+0084SIAF2.5VA;Cable siliconado 1x2.5 v/a;2;1375.72;2
+0084SIAF4C;Cable siliconado 1x4 celeste;12;17708.58;2
+0084SIAF4M;Cable siliconado 1x4 marron;110;122788.65;2
+0084SIAF4N;Cable siliconado 1x4 negro;14;14980.87;2
+0084SIAF4R;Cable siliconado 1x4 rojo;20;21962.69;2
+0084SIAF6R;Cable siliconado 1x6 rojo;2;3258.24;2
+0084SIAFGL1.5;Cable siliconado + vidrio 1x1.5;8;5843.46;2
+0084TT2X075;Cable siliconado sihf tt 2x0.75;10;9750.78;2
+0084TT2X1.5;Cable siliconado sihf tt 2x1.5;120;201804.07;2
+0084TT3X1;Cable siliconado sihf tt 3x1;1;1490.31;2
+0084TUBSIL16;Tubo de caucho siliconado 16x18mm;3;3547.17;2
+0084TUBSIL5;Tubo de caucho siliconado 5x6mm;3;430.92;2
+0084TUBSIL8;Tubo de caucho siliconado 8x9mm;3;957.3;2
+0088AIP/R;Aut.infrar.regul.secuen 110º/6 mts.1000w;11;140508.7;2
+0088TGE;Automatico general sal.rele 2000w 8 seg.a 5 min.;18;221426.86;2
+0090CPS-050-90-Z;Curva plana smarttray 90º 50mm;-4;-6887.56;2
+0090CPS-100-90-Z;Curva plana smarttray 90º 100mm;13;23468.5;2
+0090CPS-150-90-Z;Curva plana smarttray 90º 150mm;0;0;2
+0090CPS-200-90-Z;Curva plana smarttray 90º 200mm;5;15569.56;2
+0090CPS-300-45-Z;Curva plana smarttray 45º 300mm;2;5024.56;2
+0090CPS-300-90-Z;Curva plana smarttray 90º 300mm;2;5848.25;2
+0090CPS-450-90-Z;Curva plana smarttray 90º 450mm;1;7534.85;2
+0090CPS-600-90-Z;Curva plana smarttray 90º 600mm;2;20198.33;2
+0090CTC-01-PL;Caja tomacorriente perfil c pvc;8;24308.34;2
+0090CUA-01-Z;Cupla union bandeja de alambre;8;6086.26;2
+0090CUPCN-01-Z;Cupla de union para pc-01;2;1390.78;2
+0090CUPS-300-D-Z;Curva vertical descendente smarttray 300mm;0;3171.91;2
+0090EPS-050-Z;Eslabon universal de curva vertical de 50mm;27;24392.22;2
+0090EPS-100-Z;Eslabon universal de curva vertical de 100mm;48;47735.36;2
+0090EPS-200-Z;Eslabon universal de curva vertical de 200mm;21;25768.4;2
+0090EPS-300-Z;Eslabon universal de curva vertical de 300mm;15;13522.34;2
+0090EPS-450-Z;Eslabon universal de curva vertical de 450mm;24;48879.3;2
+0090EPS-600-Z;Eslabon universal de curva vertical de 600mm;12;25751.96;2
+0090G-08-G;Grampa suspension de varilla tipo u galv.;12;9609.27;2
+0090GFCE-B;Grampa fijacion cable equipotencial laton c/bul;50;31622.55;2
+0090GSAC-01-Z;Grampa de susp.central sola;50;38039.15;2
+0090GSP-150-G;Grampa de suspension perforada 150mm;3;3408.68;2
+0090JB-1/4;"Juego buloneria suelta de 1/4""";100;3765.51;2
+0090JB-CC-3/8-100;Buloneria 3/8;136;18168.27;2
+0090JB-CC-M6;c/u Bulon c/t metrico p/union de bandeja smarttray;872;43223.84;2
+0090NV1/4;"Niple para varilla roscada 1/4""";94;26120.55;2
+0090NV3/8;"Niple para varilla roscada 3/8""";40;14993.27;2
+0090PCN-01-G;Tramo perfil c samet pc-01 44x44mm x 3mt  galv;5;77274.7;2
+0090PCN-02-18-Z;Tramo perfil c samet pc-02 44x28mm x 3mt ch 1.24;3;18004.47;2
+0090PCN-02-Z;Tramo perfil c samet pc-02 44x28mm x 3mt ch 1.6;5;37121.36;2
+0090SR-130-G;Mensula samet 130mm galvanizada;9;15407.17;2
+0090SR-330-G;Mensula samet 330mm galvanizada;2;7434.1;2
+0090ST200Z;Soporte trapecio solo 200mm;10;5135.9;2
+0090ST300Z;Soporte trapecio solo 300mm;30;26519.2;2
+0090ST450Z;Soporte trapecio solo 450mm;24;30040.74;2
+0090TCH-1-1/4X5/8;"Bulon cabeza hexagonal 1/4"" x 5/8""";100;5699.61;2
+0090TCPS-100-90-Z;Tapa curva plana smarttray 90º 100mm;4;4453.25;2
+0090TCPS-150-90-Z;Tapa curva plana smarttray 90º 150mm;2;2681;2
+0090TEPS-300-Z;Tapa para eslabon de curva vertical de 300 mm;0;401.46;2
+0090TEPS-600-Z;Tapa para eslabon de curva vertical de 600 mm;12;13444.41;2
+0090THA-1/4;"Tuerca hexagonal 1/4"" c/arand.incorpor.";1040;28073.52;2
+0090THA-3/8;"Tuerca hexagonal 3/8"" c/arand.incorpor.";90;4538.14;2
+0090THA-5/16;"Tuerca hexagonal 5/16"" c/arand.incorpor.";80;2843.31;2
+0090TP-01-3/8;"Tuerca para perfil pc-01 de 3/8""";12;3768.19;2
+0090TP-01-5/16;"Tuerca para perfil pc-01 de 5/16""";100;28647.89;2
+0090TPC-01-Z;Tapa para perfil pc-01 y 02 x3 mt.;10;24911.46;2
+0090TPS-050-Z;Union t smarttray 50mm;-5;-10738.67;2
+0090TPS-100-Z;Union t smarttray 100mm   **;4;9865.58;2
+0090TPS-150-Z;Union t smarttray 150mm;3;8262.56;2
+0090TPS-200-Z;Union t smarttray 200mm;1;2246.96;2
+0090TPS-600-Z;Union t smarttray 600mm;2;21958.87;2
+0090TRA-450;Bandeja de alambre 450mm x 3 mts cincada;5;209739.76;2
+0090TRPS-050-22-Z;Tramo smarttray 50mm ala 50 x3mts.espesor 0.7;14;69471.64;2
+0090TRPS-100-22-Z;Tramo smarttray 100mm ala 50 x3mts.espesor 0.7;53;383579.51;2
+0090TRPS-150-22-Z;Tramo smarttray 150mm ala 50 x3mts.espesor 0.7;12;96595.56;2
+0090TRPS-200-22-Z;Tramo smarttray 200mm ala 50 x3mts.espesor 0.7;46;457700.31;2
+0090TRPS-300-22-Z;Tramo smarttray 300mm ala 50 x3mts.espesor 0.7;19;201004.64;2
+0090TRPS-450-20-Z;Tramo smarttray 450mm ala 50 x3mts.espesor 0.9;56;1135401.39;2
+0090TRPS-600-20-Z;Tramo smarttray 600mm ala 50 x3mts.espesor 0.9;6;151439.37;2
+0090TTPS-100-Z;Tapa union t smarttray 100mm;3;3665.97;2
+0090TTPS-600-Z;Tapa union t smarttray 600mm;2;14340.47;2
+0090TTRS-050-22-Z;Tapa tramo smarttray 50mm liviana ch.22;17;54323.65;2
+0090TTRS-100-22-Z;Tapa tramo smarttray 100mm liviana ch.22;6;30146.59;2
+0090TTRS-150-22-Z;Tapa tramo smarttray 150mm liviana ch.22;3;17631.11;2
+0090TTRS-200-22-Z;Tapa tramo smarttray 200mm liviana ch.22;3;24841.42;2
+0090TTRS-300-22-Z;Tapa tramo smarttray 300mm liviana ch.22;32;319149.78;2
+0090TTRS-600-20-Z;Tapa tramo smarttray 600mm liviana ch.20;2;43629.66;2
+0090UBA-01-Z;Union para base de bandeja de alambre;10;7607.83;2
+0090UCPC-01-Z;Curva 90° pc-01;2;2704.2;2
+0090VR1/4;"Varilla roscada cincada 1/4""";78;39174.39;2
+0090VR3/8;"Varilla roscada cincada 3/8""";20;21561.37;2
+0090VR5/16;"Varilla roscada cincada 5/16""";26;22136.21;2
+00962AE2T;"Prensacable al re 5/8"" con tuerca";20;25788.3;2
+00962AE3T;"Prensacable al re 3/4"" con tuerca";16;22833.61;2
+00962AE4T;"Prensacable al re 7/8"" con tuerca";25;32020.14;2
+00962AE5T;"Prensacable al re 1"" con tuerca";25;36136.95;2
+00962AEB4T;"Prensacable Aluminio Compacto   7/8"" BSC Ajuste Co";60;80420.49;2
+00962PE1T;"Prensacable poli re 1/2"" con tuerca 5-8mm";232;38744.22;2
+00962PE2T;"Prensacable poli re 5/8"" con tuerca 7-11mm";159;49788.6;2
+00962PE3T;"Prensacable poli re 3/4"" con tuerca 10-14mm";145;44075.18;2
+00962PE4T;"Prensacable poli re 7/8"" con tuerca 12-17mm";25;7948.3;2
+00962PE5T;"Prensacable poli re 1"" con tuerca 15-20mm";25;8944.54;2
+00962PE6T;"Prensacable poli re 1 1/4"" con tuerca 20-25mm";23;9748.89;2
+00963AS30;"Aislador liso epoxite apa 30 1/4""";6;10055.55;2
+00963AS40;"Aislador liso epoxite apa 40 1/4""";26;49361.55;2
+00963AS40P;"Aislador liso epoxite apa 40p 3/8""";4;10222.91;2
+00963AS50;"Aislador liso epoxite apa 50 3/8""";3;12858.19;2
+00964DTEVE3010;Sistema de barras de distribución c/portabarra epo;1;93817.16;2
+00965ER1;Empalme recto hasta 4x2.5;5;51499.37;2
+00965ER2;Empalme recto hasta 4x10;9;151080.08;2
+00965ER3;Empalme recto hasta 3x25+n;6;134844.48;2
+00965ET1;Empalme tee hasta 4x6;8;172916.59;2
+00965ET2;Empalme tee hasta 3x25+n;1;44383.18;2
+00966AG3T;"Prensacano Aluminio 1/2"" BSP c/tuerca c/arandela d";110;123927.47;2
+00966AG5T;"Prensacano Aluminio 3/4"" BSP c/tuerca c/arandela d";100;148062.32;2
+00966AG6T;"Prensacano Aluminio 1"" BSP c/tuerca c/arandela de";50;133216.23;2
+00966AG7T;"Prensacano Aluminio 1 1/4"" BSP c/tuerca c/arandela";15;52214.98;2
+00966GAE3T;"Conector alum.girat.p/flexible 3/4"" re";8;6505.32;2
+00966GAE4T;"Conector alum.girat.p/flexible 7/8"" re";2;1990.26;2
+00966GAE5T;"Conector alum.girat.p/flexible 1"" re";2;2183.2;2
+00966GAE8T;"Conector alum.girat.p/flexible 2"" re";6;38072.46;2
+00966PE1T;"Conector plastico p/flexible 1/2"" re";8;2453.53;2
+00966PE3T;"Conector plastico p/flexible 3/4"" re";92;25737.91;2
+00966PE4T;"Conector plastico p/flexible 7/8"" re";4;1763.17;2
+00966PE5T;"Conector plastico p/flexible 1"" re";72;31573.83;2
+00966PE7T;"Conector plastico p/flexible 1 1/2"" re";6;5966.87;2
+010117367;Cinta tela vidrio 3m nº69 19mmx20mts.;4;55579.39;2
+010151128;Empalme T aislacion seca 1kv 3x70+n 92BB2;1;82437.89;2
+0102086;Tortuga ovalada ape;4;126026.61;2
+0102EC13;Caja estanca aluminio 150x150x150;1;9681.94;2
+0102ER31;Caja estanca aluminio 600x500x300;2;285284.48;2
+0102PASTA;Pasta selladora x kg;1;2987.53;2
+0102S11/4;"Sellador ape vert.-horiz. 1 1/4""";6;27976.37;2
+0102S3/4;"Sellador ape vert.-horiz. 3/4""";2;4615.51;2
+010310200;Marco + bastidor vidrio blanco;2;16481.45;2
+010311200;Marco + bastidor vidrio negro;2;20525.95;2
+010340001;Adaptador para riel din blanco;12;2575.1;2
+010345001;Conjunto bastidor pq con tapa estanco blanco;12;43289.17;2
+010345131;Medio modulo punto blanco;29;25760.05;2
+010345132;Medio modulo punto comb. blanco;4;3098.26;2
+010345220;Mod. toma c/neutro 20a blanco;8;8718.92;2
+010345231;Mod. punto blanco;141;109827.13;2
+010345232;Mod. punto mediano blanco;29;24596.04;2
+010345233;Mod.punto tecla ancha blanco;14;16291.8;2
+010345236;Pulsador bip 2 direc p/persiana 10a - 250v blanco;2;9851.72;2
+010345244;Mod.toma computacion blanco;1;841.05;2
+010345246;Mod. toma schuko 16a. blanco;3;8816.9;2
+010345251;Mod.pulsador blanco;2;1735.24;2
+010345280;Mod. toma c/neutro 10a blanco;70;46888.44;2
+010345282;Mod. toma c/neutro combinado 10a blanco;117;96949.68;2
+010345286;Mod. toma c/neutro combinado 10a doble blanco;127;248263.45;2
+010345287;Mod. toma c/neutro doble 10a blanco;71;126409.74;2
+010345289;Variador de led blanco;8;134939.13;2
+010345293;Reg.ventilador blanco;1;7835.81;2
+010345300;Tapon ciego blanco;367;44933.03;2
+010345308;Mod. toma telef. americano 4 contactos blanco;1;856.18;2
+010345310;Tapon ciego medio modulo blanco;13;1456.53;2
+010345317;Mod.2x puerto usb 5v 3000ma blanco;7;85497.76;2
+010345331;Mod. punto luminoso blanco;4;4649.07;2
+010345531;Mod. punto combinacion blanco;23;21189.93;2
+010345532;Interruptor unipolar 2 direc mediano (comb) blanco;3;3927.48;2
+010345533;Mod.punto combinacion tecla ancha blanco;5;7483.6;2
+010345632;Mod.punto comb.1 mod y medio c/neon blanco;1;1525.68;2
+010345700;Caja exterior pq;5;6200.44;2
+010346133;Mod.4 vias blanco;1;2642.76;2
+01035011;Bastidor rectangular milano;1;154.23;2
+01035015;Bastidor rectangular milano due;9;1621.73;2
+01035231B;Modulo punto milano blanco;9;4370.54;2
+01035231N;Modulo punto milano negro;4;1937.03;2
+01035280;Modulo toma c/neutro milano;23;12260.63;2
+01035282;Modulo toma c/neutro combinado milano;7;3287.88;2
+01035300;Tapon ciego (bco-gris-beige) milano;10;985.87;2
+01035331;Modulo punto con neon milano;1;820.35;2
+01035500BG;Tapa rect.plastica milano beige;1;192.37;2
+01035502B;Tapa rect.milano due natural blanco;10;1815.87;2
+01035502G;Tapa rect.milano due natural gris;7;1537.92;2
+010355115;Bastidor para minimal vid/kris/mad/pied/alu;6;1997.82;2
+010355131;Medio modulo punto gris;3;1882.11;2
+010355132;Medio modulo punto comb. gris;2;1974.25;2
+010355220;Mod. toma c/neutro 20a gris;2;2452.64;2
+010355231;Mod. punto gris;55;53782.08;2
+010355232;Mod. punto mediano gris;15;13665.61;2
+010355233;Mod.punto tecla ancha gris;17;16636.75;2
+010355280;Mod. toma c/neutro 10a gris;12;8415.51;2
+010355282;Mod. toma c/neutro combinado 10a gris;70;56893.7;2
+010355286;Mod. toma c/neutro combinado 10a doble gris;69;185372.46;2
+010355287;Mod. toma c/neutro doble 10a gris;25;44628.42;2
+010355293;Reg.ventilador gris;1;8093.86;2
+010355300;Tapon ciego gris;72;8462.18;2
+01035531;Modulo combinacion milano;12;7031.4;2
+010355310;Tapon ciego medio modulo gris;4;442.41;2
+010355331;Mod. punto luminoso gris;1;1416.99;2
+010355501;Marco + bastidor natural minimal blanco;34;29170.06;2
+010355502;Marco + bastidor natural minimal gris;1;854.41;2
+0103555021;Marco Minimal Natural Mate 10x5 gris;3;1693.72;2
+010355503;Marco + bastidor natural minimal arena;4;2233.47;2
+0103555031;Marco Minimal Natural Mate 10x5 arena;3;1693.72;2
+010355514;Marco + bastidor satinado champagne minimal;4;4901.35;2
+0103555151;Marco Minimal Satinado 10x5 Tostado;5;7688.33;2
+010355517;Marco + bastidor satinado negro minimal;1;1534.64;2
+0103555191;Marco Minimal Satinado 10x5 Cemento;1;1537.67;2
+010355539;Marco + bastidor kristal negro;14;39872.89;2
+010355540;Marco + bastidor kristal verde;1;3255.43;2
+010355541;Marco + bastidor kristal blanco;48;123578.98;2
+0103555411;Marco Minimal Kristal BLANCO (sin bastidor);0;0;2
+01035631;Modulo combinacion con neon milano;3;2621.1;2
+0103565011;Marco Minimal Natural Brillante 10x5 blanco;14;7904.02;2
+010365015;"Bastidor para caja 10x5 UNIVERSAL (Minimal. PIANO;";3;640.21;2
+010365132;Medio modulo punto comb. arena;2;1974.25;2
+010365231;Mod. punto arena;18;13660.67;2
+010365232;Mod. punto mediano arena;1;1891.11;2
+010365233;Mod.punto tecla ancha arena;1;702.94;2
+010365246;Mod. toma schuko 16a. arena;1;2938.97;2
+010365251;Mod.pulsador arena;1;974.45;2
+010365280;Mod. toma c/neutro 10a arena;19;13590.28;2
+010365282;Mod. toma c/neutro combinado 10a arena;1;573.02;2
+010365286;Mod. toma c/neutro combinado 10a doble arena;1;1985.56;2
+010365287;Mod. toma c/neutro doble 10a arena;4;7543.93;2
+010365300;Tapon ciego arena;31;3665.58;2
+010365302;Mod.toma te usa arena;1;1345.6;2
+010365310;Tapon ciego medio modulo arena;2;264.44;2
+010365531;Mod. punto combinacion arena;1;739.24;2
+010374502;Tapa piano mig.gris;0;0;2
+010374503;Tapa piano mig.arena;1;211.54;2
+010374506;Tapa piano mig.satinada champagne;3;3098.94;2
+010375015;Bastidor pq y quadra rectangular;524;116800.23;2
+010375016;Bastidor pq y quadra mignon;12;2754.87;2
+010375501;Tapa piano rect.blanca;4;1231.99;2
+010375502;Tapa piano rect.gris;64;25959.99;2
+010375503;Tapa piano rect.arena;15;3962.15;2
+010375506;Tapa piano rect.satinada champagne;5;4294.98;2
+010375507;Tapa piano rect.satinada tostada;0;0;2
+010375508;Tapa piano rect.satinada acero;7;8236.92;2
+010375513;Tapa piano rect.satinada rosa piano;2;1675.62;2
+010375514;Tapa piano rect.satinada celeste piano;1;780.03;2
+010384501;Tapa quadra mig.blanca;4;1013.22;2
+010384502;Tapa quadra mig.gris;1;354.28;2
+010384503;Tapa quadra mig.arena;2;708.56;2
+010384508;Tapa quadra mig.metalizada champagne;1;999.44;2
+010386501;Tapa quadra rect.blanca;294;77734.43;2
+010386502;Tapa quadra rect.gris;57;15210.51;2
+010386503;Tapa quadra rect.arena;5;1423.26;2
+010386507;Tapa quadra rect.metalizada dorada;1;1039.29;2
+010386508;Tapa quadra rect.metalizada champagne;20;20092.58;2
+010386510;Tapa quadra rect.metalizada plata;4;4394.87;2
+010386515;Tapa quadra rect.satinada tostado;9;7020.27;2
+010386516;Tapa quadra rect.satinada acero;25;26931.68;2
+010386521;Tapa quadra rect.satinada champagne;1;706.33;2
+0108380-110-300-ESP;TRANSFORMADOR 380V-110V POTENCIA 300VA PRIMARIO 0-;3;97700.85;2
+0108380-24-100CP;Trafo especial 380v-24v-100va con pantalla;1;21761.47;2
+0108EA007;Elevador 7k 170v;1;155890.62;2
+0108EE003;Estabilizador 3.5kva;1;119538.85;2
+0108TR220/12+12/75VA;TRAFO 220/12+12/75VA;4;73359.07;2
+0108TRAF220/12/150;Trafo con tapa y bornera 150va 220/12v;3;59775.57;2
+0108TRAF220/12/50;Trafo con tapa y bornera 50va 220/12v;2;19168.29;2
+0108TRAF220/220/50;Trafo con tapa y bornera 50va 220/220v;6;67406.26;2
+0108TRAF220/24/200;Trafo con tapa y bornera 200va 220/24v;1;20638.87;2
+0108TRAF380/24/150;Trafo con tapa y bornera 150va 380/24v;3;67274.22;2
+0108TRAF380/24/50;Trafo con tapa y bornera 50va 380/24v;1;10888.7;2
+0108TRAF380/24/75;Trafo con tapa y bornera 75va 380/24v;1;16544.54;2
+0110111005;Foquito tipo linterna 4.8v rosca e10;1;48.17;2
+0110111011;Foquito tipo linterna 2.4v bayoneta;3;123.25;2
+0110111012;Foquito tipo linterna 3.6v bayoneta;4;149.84;2
+0110111207;Foquito halogeno linterna bayoneta 7.2v.;1;310.4;2
+0110111312;Foquito p/ojo de buey 6v.250ma rosca e-10;9;537.74;2
+0110157230;Tubo fluorescente luz dia 30w (900mm);12;11848.26;2
+0110157454;Tubo slb grolux 20w chino;1;1943.05;2
+0110157531;Tubo blb luz negra 4w china;2;1752.72;2
+0110157539;Tubo blb luz negra 40w china;3;9309.04;2
+0110163297;Lamp.led r7s 118mm 10w 3000k 1000lm clara;44;140823.88;2
+0110166371;Tubo led t8 8w g13 450mm 6400k 800lm vidrio 1pta;30;61502.51;2
+011119333;Interruptor seccionador SD1 4x40A con manija direc;2;37051.03;2
+0111221.058;Interfase zoloda optoacoplada;40;508114.49;2
+0111817002;Peine pcz 2p de 63a de 56 salidas;48;519092.29;2
+0111817003;Peine pcz 3p de 63a de 54 salidas;1;16266.76;2
+0111817004;Peine pcz 4p de 63a de 56 salidas;9;220244.41;2
+0111817102;Tapa para pcz 2p;6;221.06;2
+0111817103;Tapa para pcz 3p;6;214.91;2
+0111817105;Tapa para pcz 2p equilibrados;30;1452.09;2
+0111817900;Conector de 16mm - 63a para pcz;63;25085.49;2
+0111A-5523100;Interruptor tripolar de 32a;1;13282.08;2
+0111A-5531000;Interruptor tetrapolar de 16a;0;0;2
+0111A-5633100;"Conmutador tetrapolar con posicion ""0"" de 32a";1;16920.31;2
+0111A-6713100;Inversor tripolar 32a;1;18413.01;2
+0111A-BTKS-100-50-BL;Accesorio de altura para portabastidor universal b;1;593.3;2
+0111AK0100007;Placa de fijacion sobre din cal 0 y 1 (hasta 100a);1;1379.35;2
+0111AK1200523;Mando bloqueo por candado rojo-amarillo (16a- 32a);1;4165.42;2
+0111AK1730003;Conjunto embrague con enclavamiento y eje prolonga;0;0;2
+0111AO-02;Microinterruptor basico 1na+1nc;10;56335.84;2
+0111ATS/MB;Separador optico-electrico para borne mb y mbs;100;6816.58;2
+0111AW-02;Interruptor de pie con retorno a resorte 1na+1nc;3;103182.65;2
+0111BKF-04-AZ;Borne de paso a resorte de color azul para conduct;50;20485.86;2
+0111BKF-04-T;Borne de tierra a resorte para conductor de 4mm;10;16372.98;2
+0111BKF-1.5;Borne de paso a resorte para conductor de 1.5mm;220;55805.6;2
+0111BKF-10-T;Borne de tierra a resorte para conductor de 10mm;10;25253.52;2
+0111BKF-2.5;Borne de paso a resorte para conductor de 2.5mm;565;194130.38;2
+0111BKF-2.5-AZ;Borne de paso a resorte de color azul para conduct;50;18714.67;2
+0111BKNP-520;Borne portafusible a tornillo para fusible de 5x20;148;139543.49;2
+0111BKNT-T;Borne triple piso a tornillo;70;96599.82;2
+0111BMFN 10X38;Portafusible unipolar para fusibles 10x38mm.;28;65166.29;2
+0111BMFN 10X38 LBT;Portafusible unipolar para fusibles 10x38mm con in;3;11687.06;2
+0111BMFN 10X38 LED;Portafusible unipolar para fusibles 10x38mm con in;6;25529.81;2
+0111BMFN 8X31;Portafusible unipolar para fusibles 8x31mm.;70;143822.47;2
+0111BMFN 8X31 LBT;Portafusible unipolar para fusibles 8x31mm con ind;48;204267.84;2
+0111BPN-04;Borne de paso para conductor de 4mm;4582;956522.68;2
+0111BPN-04-AZ;Borne de paso de color azul para 4mm;40;9797.58;2
+0111BPN-04-NG;Borne de paso de color negro para conductor de 4mm;2;584.33;2
+0111BPN-04-VE;Borne de paso de color verde para conductor de 4mm;360;88617.34;2
+0111BPN-06;Borne de paso para conductor de 6mm;792;225969.76;2
+0111BPN-10;Borne de paso para conductor de 10mm;494;176671.41;2
+0111BPN-10-AZ;Borne de paso de color azul para conductor de 10mm;9;3482.86;2
+0111BPN-16;Borne de paso para conductor de 16mm;122;77144.03;2
+0111BPN-16-AZ;Borne de paso de color azul para conductor de 16mm;3;2157.31;2
+0111BPN-16-VE;Borne de paso de color verde para conductor 16mm;5;4157.51;2
+0111BPN-2.5;Borne de paso para conductor de 2.5mm;1986;399129.9;2
+0111BPN-2.5-AZ;Borne de paso de color azul para 2.5mm;40;9370.61;2
+0111BPN-2.5-NG;Borne de paso de color negr para 2.5mm;50;11387.25;2
+0111BPN-2.5-RO;Borne de paso de color rojo para 2.5mm;40;9370.61;2
+0111BPN-2.5-VE;Borne de paso de color verde para 2.5mm;1;266.16;2
+0111BPN-35;Borne de paso para conductor de 35mm;66;88467.36;2
+0111BPN-35-AZ;Borne de paso de color azul para conductor de 35mm;2;3279.27;2
+0111BPN-35-VE;Borne de paso de color verde para conductor 35mm;1;1640.12;2
+0111BPN-50;Borne de paso para conductor de 50mm;20;62321.41;2
+0111BRC412511/N;Bornera repartidora tetrapolar. 11 conexiones fija;2;15495.79;2
+0111BSLKN-04;Borne de puesta a tierra para conductor de 4mm;212;249839.91;2
+0111BSLKN-06;Borne de puesta a tierra para conductor de 6mm;167;215534.8;2
+0111BSLKN-10;Borne de puesta a tierra para conductor de 10mm;74;104281.88;2
+0111BSLKN-16;Borne de puesta a tierra para conductor de 16mm;6;14781.37;2
+0111BSLKN-35;Borne de puesta a tierra para conductor de 35 mm;10;33755.81;2
+0111BTKS-100-50-BL;Porta bastidor universal bajo para ckd-100-50;2183;1426008.25;2
+0111CB-CLR-20.;Puente de interconexion para zocalo de 6.2mm;20;13933.82;2
+0111CCC-5352;"Conector 90° macho de 1/2"" rosca bsp";15;48773.66;2
+0111CHC-5272;"Conector recto hembra de 1/2"" rosca bsp    **";5;9861.06;2
+0111CKD-100-50-BL;Cablecanal modular blanco 100x50mm. precio x metro;1136;3141695.14;2
+0111CKN-015-15;Cablecanal 15x15mm. calado gris;46;26863.07;2
+0111CKN-015-30;Cablecanal 15x30mm. calado gris;6;5507.13;2
+0111CKN-030-30;Cablecanal 30x30mm. calado gris;52;57047.86;2
+0111CKN-040-40;Cablecanal 40x40mm. calado gris;82;96795.7;2
+0111CKN-040-60;Cablecanal 40x60mm. calado gris;338;565854.05;2
+0111CKN-040-80;Cablecanal 40x80mm. calado gris;88;145207.86;2
+0111CKN-060-40;Cablecanal 60x40mm. calado gris;414;716755.43;2
+0111CKN-060-40-SC-BL;Cablecanal 60x40mm. sin calar color blanco;50;93991.5;2
+0111CKN-060-60;Cablecanal 60x60mm. calado gris;28;60914.38;2
+0111CKN-060-60-CA;Cablecanal 60x60mm. calado angosto gris;8;17128.63;2
+0111CKN-060-80;Cablecanal 60x80mm. calado gris;56;136181.67;2
+0111CKN-080-40;Cablecanal 80x40mm. calado gris;168;363191.5;2
+0111CKN-080-80;Cablecanal 80x80mm. calado gris;64;181392.66;2
+0111CKN-100-60;Cablecanal 100x60mm. calado gris;24;70576.16;2
+0111CKN-100-80;Cablecanal 100x80mm. calado gris;32;131611.87;2
+0111CRC-5332;"Conector recto macho de 1/2"" rosca bsp    **";5;7246.04;2
+0111CRIMP-10;Pinza crimpeadora terminales tub de 0.25-10mm2;4;90663.48;2
+0111D-BKF-1.5;Tapa para borne de paso a resorte para conductor d;8;990.25;2
+0111D-BKF-2.5/04;Tapa para borne de paso a resorte para conductor d;50;6437.13;2
+0111D-BKND-04;Tapa para borne doble piso a tornillo;60;14704.75;2
+0111D-BPN-16/35;Tapa para borne bpn-16/35;101;16349.02;2
+0111D-BPN-2.5/10;Tapa para borne bpn-2.5/04/06/10;986;87631.85;2
+0111D-ELE-100-50;Divisor interno para ele-100-50-bl;1;660.53;2
+0111D-LS-100-50;Divisor interno para ls-100-50-bl;1;1103.58;2
+0111D-MB;Tapa para borne mb;204;15756.62;2
+0111D-TE-100-50;Divisor interno para te-100-50-bl;1;2267.14;2
+0111E-1-B;Bobina 220vca 5kgr. (intermitente);3;69314.88;2
+0111E-100-50-BL;Extremo para cablecanal ckd-100-50 color blanco;190;84375.62;2
+0111E-1407-BL;Extremo para cablecanal 14x07mm. color blanco;3;111.54;2
+0111E-1821-BL;Extremo para cablecanal 18x21mm. color blanco;6;906.21;2
+0111E-2;Electroiman 380vca 5kgr. (intermitente);4;252840.26;2
+0111E-2-B;Bobina 380vca 5 kgr. (intermitente);1;23588.19;2
+0111E-2010-BL;Extremo para cablecanal 20x10mm. color blanco;28;3292.23;2
+0111E-4030-BL;Extremo para cablecanal 40x30mm. color blanco;37;7012.93;2
+0111EC-1407ABS;Cablecanal 14x07mm. color blanco con adhesivo;188;33433.15;2
+0111EC-1821ABS;Cablecanal 18x21mm. color blanco con adhesivo;480;166171.44;2
+0111EC-2010ABS;Cablecanal 20x10mm. sin tabique color blanco con a;2152;500066.49;2
+0111EC-2010BS;Cablecanal 20x10mm. sin tabique color blanco;12;2420.39;2
+0111EC-2730ABS;Cablecanal 27x30mm. color blanco con adhesivo;204;174624.37;2
+0111EC-4030ABS;Cablecanal 40x30mm. color blanco con adhesivo;108;124259.22;2
+0111EK/MB;Extremo bornera para riel ns-mb/ 15;40;9071.67;2
+0111EK2;Extremo bornera alto para riel ns y ns-35;2;577.71;2
+0111EK3;Extremo para borne 50-150mm para riel ns-35;2;4126.41;2
+0111EKN1;Extremo bornera bajo doble tornillo para riel ns-3;1460;325878;2
+0111ELE-100-50-BL;Angulo 90º para cablecanal ckd-100-50 color blanco;62;84683.11;2
+0111ELE-1407-BL;Curva plana para cablecanal 14x07mm. color blanco;29;1199.31;2
+0111ELE-1821-BL;Curva plana para cablecanal 18x21mm. color blanco;31;4371.22;2
+0111ELE-2010-BL;Curva plana para cablecanal 20x10mm. color blanco;100;11736.55;2
+0111ELE-2730-BL;Curva plana para cablecanal 27x30mm. color blanco;7;1387.95;2
+0111ELE-3012-BL;Curva plana para cablecanal 30x12mm. color blanco;4;540.16;2
+0111ELE-4016-BL;Curva plana para cablecanal 40x16mm. color blanco;13;2358.8;2
+0111ELE-4030-BL;Curva plana para cablecanal 40x30mm. color blanco;9;1422.23;2
+0111F/1038-02;Fusible 10x38mm. (clase gg) 2a;3;1129.65;2
+0111F/205-03.15;Fusible 3. 15a/ 20x5 mm.;10;4300.81;2
+0111FATIR960-24;Fuente conmutada trifasica uso industrial. riel di;1;303006.48;2
+0111FRP20;Modulo de redundancia de 20 a maximo por entrada y;1;46374.64;2
+0111H-2;Electroiman 380vca 10kgr. (intermitente);5;456157.37;2
+0111HUB-372;"Hub de 1"" conector para cano rigido. rosca npt";270;1132671.82;2
+0111HUB-375;"Hub de 2"" conector para caño rígido. rosca npt";3;16529.45;2
+0111I-RE1;Identificador de regleta;50;15075.05;2
+0111IBC-04-01;Plancha de numeros 1-10 (15 juegos);5;3968.41;2
+0111IBC-04-02;Plancha de numeros 11-20 (15 juegos);5;3968.41;2
+0111IBC-04-03;Plancha de numeros 21-30 (15 juegos);5;3968.41;2
+0111IBC-04-04;Plancha de numeros 31-40 (15 juegos);5;3968.41;2
+0111IBC-04-05;Plancha de numeros 41-50 (15 juegos);2;1587.22;2
+0111IBC-04-06;Plancha de numeros 51-100 (3 juegos);2;1587.22;2
+0111IBC-05-01;Plancha de numeros 1-25 (6 juegos);1;769.19;2
+0111IBC-05-02;Plancha de numeros 26-50 (6 juegos);1;769.19;2
+0111IBC-05-03;Plancha de numeros 51-75 (6 juegos);2;1526.33;2
+0111IBC-06-06-A;Plancha de numeros 101-220 (1 juego) apaisados;-2;-319.09;2
+0111IBC-06-07-A;Plancha de numeros 221-340 (1 juego) apaisados;-2;-319.09;2
+0111IBC-06-08-A;Plancha de numeros 341-460 (1 juego) apaisados;-1;-159.54;2
+0111IBC-06-09-A;Plancha de numeros 461-580 (1 juego) apaisados;-1;-159.54;2
+0111IBC-06-10-A;Plancha de numeros 581-700 (1 juego) apaisados;-1;-159.54;2
+0111IBC-06-11-A;Plancha de numeros 701-820 (1 juego) apaisados;-1;-159.54;2
+0111ICAB-00/0;Identificador para cable de 0. 5 a 1.5mm de seccio;3;7233.86;2
+0111ICAB-00/1;Identificador para cable de 0. 5 a 1.5mm de seccio;3;7233.86;2
+0111ICAB-00/2;Identificador para cable de 0. 5 a 1.5mm de seccio;3;7233.86;2
+0111ICAB-00/3;Identificador para cable de 0. 5 a 1.5mm de seccio;3;7233.86;2
+0111ICAB-00/4;Identificador para cable de 0. 5 a 1.5mm de seccio;3;7233.86;2
+0111ICAB-00/5;Identificador para cable de 0. 5 a 1.5mm de seccio;2;4697.38;2
+0111ICAB-00/6;Identificador para cable de 0. 5 a 1.5mm de seccio;2;4697.38;2
+0111ICAB-00/7;Identificador para cable de 0. 5 a 1.5mm de seccio;2;4697.38;2
+0111ICAB-00/8;Identificador para cable de 0. 5 a 1.5mm de seccio;2;4697.38;2
+0111ICAB-00/9;Identificador para cable de 0. 5 a 1.5mm de seccio;2;4697.38;2
+0111ICAB-01/0;Identificador para cable de 0. 5 a 1.5mm de seccio;1;2162.77;2
+0111ICAB-01/2;Identificador para cable de 0. 5 a 1.5mm de seccio;1;2162.77;2
+0111ICAB-01/3;Identificador para cable de 0. 5 a 1.5mm de seccio;1;2162.77;2
+0111ICAB-01/4;Identificador para cable de 0. 5 a 1.5mm de seccio;1;2162.77;2
+0111ICAB-01/7;Identificador para cable de 0. 5 a 1.5mm de seccio;1;2162.77;2
+0111ICAB-01/NU;Identificador para cable de 0. 5 a 1.5mm de seccio;11;23480.12;2
+0111ICAB-02/ABC2;Identificador para cable de 1 a 2.5mm de seccion (;1;2189.8;2
+0111ICAB-02/CO;Identificador para cable de 1 a 2.5mm de seccion (;5;10730.87;2
+0111ICAB-02/L;Identificador para cable de 1 a 2.5mm de seccion (;1;2146.17;2
+0111ICAB-02/N;Identificador para cable de 1 a 2.5mm de seccion (;1;1734.5;2
+0111ICAB-03/CO;Identificador para cable de 4 a 6mm de seccion (u.;2;4292.34;2
+0111ICAB-03/NU;Identificador para cable de 4 a 6mm de seccion (01;3;6568.47;2
+0111IZEB15-250AG-024GN-2502I08;Interface electrom. 15. 6mm. tornillo 3 niveles 2;2;12806.57;2
+0111IZEB15-250AG-230IN-2502I08;Interface electrom. 15. 6mm. tornillo 3 niveles 2;6;43054.74;2
+0111JSSB-10-05/BKF-RO;Puente de 10 elementos para borne de paso a resort;4;4248.8;2
+0111JSSB-10-05/BPN;Puente fijo de 10 elementos para borne bpn-2.5;83;169325.94;2
+0111JSSB-10-06/BPN;Puente fijo de 10 elementos para borne bpn-04;175;412561.53;2
+0111JSSB-10-08/BPN;Puente fijo de 10 elementos para borne bpn-06;172;429580.11;2
+0111JSSB-10-10/BPN;Puente fijo de 10 elementos para borne bpn-10;23;65469.65;2
+0111JSSB-10-12/BPN;Puente fijo de 10 elementos para borne bpn-16;1;3544.33;2
+0111KDS-4;Borne para electronica con 2 pines para conductor;3500;2085426.75;2
+0111LS-100-50-BL;Esquinero exterior para cablecanal ckd-100-50;70;82891.74;2
+0111LS-1407-BL;Esquinero exterior para cablecanal 14x07mm. color;13;547.22;2
+0111LS-1821-BL;Esquinero exterior para cablecanal 18x21mm. color;10;1464.99;2
+0111LS-2010-BL;Esquinero exterior para cablecanal 20x10mm. color;68;7936.57;2
+0111LS-2730-BL;Esquinero exterior para cablecanal 27x30mm. color;7;1345.29;2
+0111LS-4016-BL;Esquinero exterior para cablecanal 40x16mm. color;13;2267.55;2
+0111LTC-110/25M;"Cano flexible de 1/2""";60;76190.69;2
+0111MB;Miniborne para conductor de 4mm;206;90295.82;2
+0111MB-AZ;Miniborne de color azul para conductor de 4mm;2;746.79;2
+0111NS-35;Riel s/ iec 60715-1. simetrico 35mm. sin perforar;41;54244;2
+0111NS-35-15/P/2000;Riel s/ iec 60715-1. simetrico 35mm. y 15mm. profu;1;4672.52;2
+0111NS-35/P;Riel s/ iec 60715-1. simetrico 35mm. perforado (1;62.3;84943.01;2
+0111NS-35/P/2000;Riel s/ iec 60715-1. simetrico 35mm. perforado (2;79;199865.94;2
+0111NS-MB;Riel s/ iec 60715-1. simetrico de 15mm. perforado;5;6853.72;2
+0111NS/2000;Riel s/ iec 60715-1. asimetrico 32mm. sin perforar;2;9313.89;2
+0111P-02-10-05/BKN;Puente de adaptacion de borne bpn-10 a bpn-2.5;60;31875.9;2
+0111P-10-06/BDN-MB;Puente fijo de 10 elementos para borne bdn-c/bdn-s;20;39419.18;2
+0111P-10-06/BKNT-AZ;Puente de 10 elementos para borne a sensores paso;4;3681.32;2
+0111P-10-06/BKNT-MA;Puente de 10 elementos para borne a sensores paso;4;2971.24;2
+0111P-10-08/BKNP;Puente de 10 elementos paso 8mm. para borne bknp-5;2;6037.22;2
+0111PS-02;Protector de seguridad para borne zctp-250 para co;24;34833.61;2
+0111RI-100-50-BL;Rinconero interno para cablecanal ckd-100-50;78;62197.69;2
+0111RI-1407-BL;Rinconero interno para cablecanal 14x07mm. color b;14;548.7;2
+0111RI-1821-BL;Rinconero interno para cablecanal 18x21mm. color b;7;1108;2
+0111RI-2010-BL;Rinconero interno para cablecanal 20x10mm. color b;79;9395.21;2
+0111RI-2730-BL;Rinconero interno para cablecanal 27x30mm. color b;1;172.41;2
+0111RI-3012-BL;Rinconero interno para cablecanal 30x12mm. color b;4;541.31;2
+0111RI-4016-BL;Rinconero interno para cablecanal 40x16mm. color b;13;2267.55;2
+0111RI-4030-BL;Rinconero interno para cablecanal 40x30mm. color b;4;830.48;2
+0111RZE024AN-2501I12B.;Rele zoloda electromecanico 15.6mm 1 cont.  inv.  ;4;12305.23;2
+0111S-BKF-2.5/04;Separador montaje sobre borne (2.5 a 4mm);108;17579.95;2
+0111SE-D-50-BL;Tabique separador para ckd-100-50 color blanco;38;16212.34;2
+0111SE1;Separador 64x52mm. espesor de 2mm.;150;26231.68;2
+0111SE1-D;Separador 64x52mm. espesor de 1mm. color amarillo.;60;7118.25;2
+0111SE1-D-GR;Separador 64x52mm. espesor de 1mm. color gris;20;2177.8;2
+0111SG/F;Soporte plano para riel;20;13191.07;2
+0111TE-100-50-BL;"Derivacion en ""t"" para cablecanal ckd-100-50";37;58745.69;2
+0111TE-1407-BL;Te plana para cablecanal 14x07mm. color blanco;2;78.43;2
+0111TE-1821-BL;Te plana para cablecanal 18x21mm. color blanco;3;459.23;2
+0111TE-2010-BL;Te plana para cablecanal 20x10mm. color blanco;50;6022.56;2
+0111TE-2730-BL;Te plana para cablecanal 27x30mm. color blanco;1;219.36;2
+0111TE-4016-BL;Te plana para cablecanal 40x16mm. color blanco;13;2480.6;2
+0111TP-1407A-BL;Cablecanal 14x7mm. color blanco con adhesivo;124;27748.86;2
+0111TP-1821A-BL;Cablecanal 18x21mm. color blanco con adhesivo;10;3522.81;2
+0111TP-2010A-BL-ST;Cablecanal 20x10mm. sin tabique color blanco con a;2;632.9;2
+0111TP-3012-BL;Cablecanal 30x12mm. con tabique color blanco;2;903.1;2
+0111TP-3012A-BL;Cablecanal 30x12mm. color blanco con adhesivo;42;28002.33;2
+0111TP-3012A-BL-ST;Cablecanal 30x12mm. sin tabique color blanco con a;26;20027.12;2
+0111TP-4016-BL;Cablecanal 40x16mm. con tabique color blanco;2;2173.68;2
+0111TP-4016A-BL;Cablecanal 40x16mm. color blanco con adhesivo;76;67723.14;2
+0111TP-4016A-BL-ST;Cablecanal 40x16mm. sin tabique color blanco con a;10;7720.5;2
+0111TPP-4813-GR;Cablecanal de piso 48x13mm. color gris;54;52503.97;2
+0111TPP-4813A-GR;Cablecanal de piso 48x13mm. color gris con adhesiv;6;6470.37;2
+0111TPP-7517-GR;Cablecanal de piso 75x17mm. color gris;54;100898.44;2
+0111TPP-7517A-GR;Cablecanal de piso 75x17mm. color gris con adhesiv;36;66140.8;2
+0111TR-32;"Tuerca para conector de 1/2"" rosca bsp";20;5372.85;2
+0111U-100-50-BL;Union para ckd-100-50 color blanco;23;7262.86;2
+0111U-1407-BL;Union recta para cablecanal 14x07mm. color blanco;14;610.23;2
+0111U-1821-BL;Union recta para cablecanal 18x21mm. color blanco;1;132.04;2
+0111U-2010-BL;Union recta para cablecanal 20x10mm. color blanco;35;4226.72;2
+0111U-2730-BL;Union recta para cablecanal 27x30mm. color blanco;8;1511.53;2
+0111U-4016-BL;Union recta para cablecanal 40x16mm. color blanco;12;2126.71;2
+0111UKM-10;Borne de paso para conductor de 10mm;100;55953.93;2
+0111UKM-4-L/B1;Borne de paso para conductor de 4mm;40;18091.2;2
+0111VHA-B-220;Bobina 220vca para valvula hidraulica;15;232824.78;2
+0111ZCTP-250/35;Borne de poliamida para conexion a terminal 125mm;24;152894.21;2
+0111ZE-0.5-8;Terminal tif de 1x0.5mm. largo 8mm bolsa x100u;40;14728.19;2
+0111ZE-0.75-8;Terminal tif de 1x0.75mm. largo 8mm bolsa x100u;1;328.26;2
+0111ZE-1.5-8;Terminal tif de 1x1.5mm. largo 8mm bolsa x100u;3;829.43;2
+0111ZE-1-8;Terminal tif de 1x1mm. largo 8mm bolsa x100u;43;15210.75;2
+0111ZE-10-12;Terminal tif de 1x10mm. largo 12mm bolsa x100u;3.7;4641.65;2
+0111ZE-16-12;Terminal tif de 1x16mm. largo 12mm bolsa x100u;-2;-2584.04;2
+0111ZE-2.5-8;Terminal tif de 1x2.5mm. largo 8mm bolsa x100u;18.2;13397.27;2
+0111ZE-4-12;Terminal tif de 1x4mm. largo 12mm bolsa x100u;4;2626.43;2
+0111ZE-4-9;Terminal tif de 1x4mm. largo 9mm bolsa x100u;1.4;687.86;2
+0111ZE-6-10;Terminal tif de 1x6mm. largo 10mm bolsa x100u;4.6;4228.51;2
+0111ZTE-1.5-8;Terminal tif de 2x1.5mm largo 8mm bolsa x100u;2;1554.19;2
+011612X1.5C;Arg cable subt.12x1.5 clase 4 comando numerado;15;48113.87;2
+01161X035C;Arg cable norm 1x0.35 celeste;100;11036.85;2
+01161X035N;Arg cable norm 1x0.35 negro;2;221.76;2
+01161X035R;Arg cable norm 1x0.35 rojo;2;221.76;2
+01161X035V;Arg cable norm 1x0.35 verde;100;11036.85;2
+01161X050A;Arg cable norm 1x0.50 amarillo;4;451.25;2
+01161X050B;Arg cable norm 1x0.50 blanco;100;9757.75;2
+01161X050C;Arg cable norm 1x0.50 celeste;537;58874.43;2
+01161X050G;Arg cable norm 1x0.50 gris;500;52550.49;2
+01161X050M;Arg cable norm 1x0.50 marron;236;26451.35;2
+01161X050N;Arg cable norm 1x0.50 negro;1957;192244.3;2
+01161X050NA;Arg cable norm 1x0.50 naranja;400;45012;2
+01161X050R;Arg cable norm 1x0.50 rojo;1277;139863.18;2
+01161X050V;Arg cable norm 1x0.50 verde;200;23203.04;2
+01161X075B;Arg cable norm 1x0.75 blanco;25;3660.82;2
+01161X075N;Arg cable norm 1x0.75 negro;30;2701.87;2
+01161X075R;Arg cable norm 1x0.75 rojo;10;900.62;2
+01161X1.5B;Arg cable norm 1x1.5 blanco;300;51274.32;2
+01161X1.5G;Arg cable norm 1x1.5 gris;32;4752.32;2
+01161X1.5N;Arg cable norm 1x1.5 negro;300;51274.32;2
+01161X16N;Arg cable norm 1x16 negro;6;12774.68;2
+01161X1B;Arg cable norm 1x1 blanco;200;26311.78;2
+01161X1G;Arg cable norm 1x1 gris;200;26617.18;2
+01161X1M;Arg cable norm 1x1 marron;150;20935.54;2
+01161X1N;Arg cable norm 1x1 negro;650;92675.54;2
+01161X1VA;Arg cable norm 1x1 verde/amarillo;310;32507.79;2
+01161X1VI;Arg cable norm 1x1 violeta;300;45536.26;2
+01161X2.5B;Arg cable norm 1x2.5 blanco;300;91572;2
+01161X2.5C;Arg cable norm 1x2.5 celeste;500;137887.45;2
+01161X2.5M;Arg cable norm 1x2.5 marron;500;137887.45;2
+01161X2.5N;Arg cable norm 1x2.5 negro;25;5654.29;2
+01161X2.5R;Arg cable norm 1x2.5 rojo;20;6379.98;2
+01161X2.5VA;Arg cable norm 1x2.5 verde/amarillo;710;201197.16;2
+01161X25VA;Arg cable norm 1x25 verde/amarillo;100;320178;2
+01161X4C;Arg cable norm 1x4 celeste;300;124030.74;2
+01161X4M;Arg cable norm 1x4 marron;200;88677.34;2
+01161X4VA;Arg cable norm 1x4 verde/amarillo;205;91241.75;2
+01161X6N;Arg cable norm 1x6 negro;104;55013.49;2
+01162X1.5;Arg cable subt.2x1.5 clase 4;15;11190.31;2
+01163X1.5;Arg cable subt.3x1.5 clase 4;200;142375.96;2
+01163X25+N;Arg cable subt.3x25+n clase 4;6;62391.18;2
+01163X35+N;Arg cable subt.3x35+n clase 4;18;229122.07;2
+01165X2.5;Arg cable subt.5x2.5 clase 4;4;6294.88;2
+0116851;Arg cable con alma de acero 2x050;3;1305.97;2
+0116BS3X2.5;Arg cable bomba sum 3x2.5 chato;50;70273.99;2
+0116CU50;Arg cable desnudo 50mm;600;4064703.57;2
+0116EC2X0.75;Arg cable env.chato 2x0.75 gris;30;8834.71;2
+0116EC2X0.75B;Arg cable env.chato 2x0.75 blanco;16;4790.46;2
+0116EC2X050;Arg cable env.chato 2x0.50 gris;7;1538.46;2
+0116EC2X050B;Arg cable env.chato 2x0.50 blanco;23.5;5804.37;2
+0116EC2X050N;Arg cable env.chato 2x0.50 negro;30;7739;2
+0116EC2X1.5B;Arg cable env.chato 2x1.5 blanco;30;15769.72;2
+0116EC2X1B;Arg cable env.chato 2x1 blanco;190;65900.8;2
+0116EC2X2.5B;Arg cable env.chato 2x2.5 blanco;69;64256.22;2
+0116EC3X1.5;Arg cable env.chato 3x1.5 gris;15;10307.16;2
+0116EC3X1.5B;Arg cable env.chato 3x1.5 blanco;25;17533.58;2
+0116EC3X1B;Arg cable env.chato 3x1 blanco;279;120043.83;2
+0116EC3X2.5;Arg cable env.chato 3x2.5 gris;15;17256.58;2
+0116EC3X2.5B;Arg cable env.chato 3x2.5 blanco;6;5852.97;2
+0116LS0H1X10;Arg cable subt ls0h 1x10;265;336918.03;2
+0116LS0H1X16;Arg cable subt ls0h 1x16;15;38808.66;2
+0116LS0H1X2.5C;Arg cable ls0h 1x2.5 celeste;100;26484.48;2
+0116LS0H1X2.5M;Arg cable ls0h 1x2.5 marron;100;26484.48;2
+0116LS0H1X2.5VA;Arg cable ls0h 1x2.5 v/a;100;26484.48;2
+0116LS0H1X25;Arg cable subt ls0h 1x25;5;19593.75;2
+0116LS0H1X6VA;Arg cable ls0h 1x6 v/a;100;57115.52;2
+0116LS0H2X10;Arg cable subt ls0h 2x10;15;61761.2;2
+0116LS0H3X2.5;Arg cable subt ls0h 3x2.5;155;201419.15;2
+0116LS0H4X4;Arg cable subt ls0h 4x4;25;59473.04;2
+0116PA2X035;Arg cable paralelo 2x0.35 blanco;339;37683.18;2
+0116PA2X035N;Arg cable paralelo 2x0.35 negro;58;7168.16;2
+0116PA2X050;Arg cable paralelo 2x0.50 blanco;593;89406.3;2
+0116PA2X050N;Arg cable paralelo 2x0.50 negro;22;4058.69;2
+0116PA2X075;Arg cable paralelo 2x0.75 blanco;342;80998.44;2
+0116PA2X075N;Arg cable paralelo 2x0.75 negro;12;4324.49;2
+0116PA2X1;Arg cable paralelo 2x1 blanco;601;163156.69;2
+0116PA2X1.5;Arg cable paralelo 2x1.5 blanco;850;317238.89;2
+0116PA2X1.5N;Arg cable paralelo 2x1.5 negro;56;23742.7;2
+0116PA2X1N;Arg cable paralelo 2x1 negro;85;23283.65;2
+0116PA2X2.5;Arg cable paralelo 2x2.5 blanco;326;178229.8;2
+0116PB2X050;Arg cable paralelo bicolor 2x0.50;203;33366.38;2
+0116PB2X1;Arg cable paralelo bicolor 2x1;213;61256.15;2
+0116PC2X035;Arg cable paralelo cristal 2x0.35;7;1053.42;2
+0116PC2X050;Arg cable paralelo cristal 2x0.50;11;1799.89;2
+0116PC2X075;Arg cable paralelo cristal 2x0.75;38;8987.07;2
+0116PC2X1;Arg cable paralelo cristal 2x1;138;38712.42;2
+0116PC2X1.5;Arg cable paralelo cristal 2x1.5;52;23575.99;2
+0116PC2X2.5;Arg cable paralelo cristal 2x2.5;10;7071.15;2
+0116S1X150;Arg cable subt.1x150 clase 4;161;3301479.61;2
+0116S1X240;Arg cable subt.1x240 clase 4;70;2273465.3;2
+0116S1X25;Arg cable subt.1x25 clase 4;55;194614.31;2
+0116SP50;Arg cable p/soldadura 1x50 negro;90;710060.14;2
+0116TT10X1;Arg cable tt 10x1;35;51218.29;2
+0116TT10X1.5;Arg cable tt 10x1.5;140;492460.97;2
+0116TT12X1.5;Arg cable tt 12x1.5;61;165021.44;2
+0116TT12X2.5;Arg cable tt 12x2.5;15;70994.16;2
+0116TT25X1.5;Arg cable tt 25x1.5;10;59923.2;2
+0116TT2X050;Arg cable tt 2x0.50 negro;50;14822.85;2
+0116TT2X075;Arg cable tt 2x0.75 negro;10;3443.17;2
+0116TT2X075B;Arg cable tt 2x0.75 blanco;105;36259.6;2
+0116TT2X1;Arg cable tt 2x1 negro;177;75695.16;2
+0116TT2X1.5;Arg cable tt 2x1.5 negro;312;167063.03;2
+0116TT2X1B;Arg cable tt 2x1 blanco;238;80872.85;2
+0116TT2X2.5;Arg cable tt 2x2.5 negro;88;75774.25;2
+0116TT2X4;Arg cable tt 2x4;25;33313.84;2
+0116TT2X6;Arg cable tt 2x6;12;23371.92;2
+0116TT3X1;Arg cable tt 3x1 negro;320;183190.61;2
+0116TT3X1.5;Arg cable tt 3x1.5 negro;647;485935.26;2
+0116TT3X1.5B;Arg cable tt 3x1.5 blanco;110;60676.28;2
+0116TT3X10;Arg cable tt 3x10;10;32268.12;2
+0116TT3X1B;Arg cable tt 3x1 blanco;4;1728.52;2
+0116TT3X2.5;Arg cable tt 3x2.5 negro;209;213879.39;2
+0116TT3X2.5B;Arg cable tt 3x2.5 blanco;6;5133.88;2
+0116TT3X4;Arg cable tt 3x4;16;29820.5;2
+0116TT4X1.5;Arg cable tt 4x1.5;15;19033.56;2
+0116TT4X10;Arg cable tt 4x10;30;178359.87;2
+0116TT4X2.5;Arg cable tt 4x2.5;50;79572.94;2
+0116TT4X4;Arg cable tt 4x4;57;137125.32;2
+0116TT4X6;Arg cable tt 4x6;30;110048.96;2
+0116TT5X1;Arg cable tt 5x1;50;42719.99;2
+0116TT5X1.5;Arg cable tt 5x1.5;315;386607.2;2
+0116TT5X10;Arg cable tt 5x10;18;98179.83;2
+0116TT5X2.5;Arg cable tt 5x2.5;250;489097.13;2
+0116TT5X4;Arg cable tt 5x4;153;505049.89;2
+0116TT6X1;Arg cable tt 6x1;24;17600.74;2
+0116TT7X1;Arg cable tt 7x1;35;60441.64;2
+0116TT7X1.5;Arg cable tt 7x1.5;10;18121.41;2
+0116TT7X2.5;Arg cable tt 7x2.5;7;20636.01;2
+0116TT8X1.5;Arg cable tt 8x1.5;40;79393.28;2
+01200412;Gabinete estanco IP65 450X600X160;2;91612.51;2
+01200413;Gabinete estanco IP65 450X450X160;1;31105.44;2
+01200415;Gabinete estanco IP65 600X600X160;1;63409.52;2
+01200437;Gabinete estanco IP65 300X450X160;1;31378.74;2
+01200470;Gabinete estanco IP65 para 72 DIN 600x600x160;1;121236.9;2
+01200471;Gabinete estanco IP65 para 96 DIN 600x750x160;1;151311.85;2
+01200480;Gabinete estanco IP65 450X600X210;1;57310.4;2
+01200482;Gabinete estanco IP65 600X750X210;1;69157.21;2
+01200705;Contratapa regulable ciega para 450x450;1;17807.35;2
+01201061;Contratapa regulable ciega para 750x750;5;183089.92;2
+01201267;Periscopio para 16 modulos Linea Cambre;1;5370.9;2
+012020024;Gabinete estanco IP65 para 24 DIN - 30x30x12;1;27389.91;2
+012020108;Gabinete estanco IP65 para 108 DIN - 60x75x12;1;76773.71;2
+01202064;Contratapa regulable calada para 750x1200 - 224 DI;1;65128.45;2
+0120FCR120220;Cooler cuadrado con rulemanes 120x120x25 220v;6;57181.81;2
+0120RMV8080;Rejilla metalica p/cooler 80x80;6;2322.47;2
+0120RPV120120;Rejilla plastica con filtro p/cooler 120x120;5;15725.76;2
+012848103;"Broca metalica de expansion im 1/4""";544;60213.98;2
+012848104;"Broca metalica de expansion im 5/16""";62;9426.86;2
+012848106;"Broca metalica de expansion im 1/2""";14;7065.63;2
+0128546817;Mecha de widia sds plus 6mm largo 110mm;15;17790.18;2
+0128546818;Mecha de widia sds plus 6mm largo 160mm;1;1191.92;2
+0128546825;Mecha de widia sds plus 8mm largo 110mm;7;8962.54;2
+0128546832;Mecha de widia sds plus 10mm largo 110mm;1;1514.41;2
+0128600689;Silicona neutra transp. x260ml;6;12316.33;2
+0128600693;Sellador siliconado transp.(cartucho x260ml);20;36784.33;2
+0128600695;Silicona acetica con fungicida gris x 260 ml;24;43910.88;2
+0128608006;Taco de nylon s 6 c/uno sin tornillo;1000;8555;2
+0128608010;Taco de nylon s 10 c/uno sin tornillo;70;2702.05;2
+0128608186;Taco de nylon sa 6 c/uno + tornillo tmf 20x35;9887;308217.29;2
+0128608198;Taco de nylon sa 8 c/uno + tornillo tmf 21x45;5949;292903.74;2
+0128608256;Taco de nylon s 6 + clavo tornillo;120;5350.4;2
+0128608258;Taco de nylon s 8 + clavo tornillo;20;1622.94;2
+0128608511;Taco p/durlock s/tornillo gks autoperforante;270;10246.88;2
+0128608512;Taco p/durlock c/tornillo gks autoperforante;12;1598.71;2
+0128608906;Taco de nylon sx 6 c/uno especial sin tornillo;74;1832.84;2
+0128608908;Taco de nylon sx 8 c/uno especial sin tornillo;130;4366.47;2
+0128610310;"Grampa redex media omega crm 1/4""";24;652.61;2
+0128610315;"Grampa redex media omega crm 5/16""";966;27150.08;2
+0128610320;"Grampa redex media omega crm 3/8""";161;9317.4;2
+0128610325;"Grampa redex media omega crm 1/2""";765;48680.54;2
+0128610330;"Grampa redex media omega crm 5/8""";301;25420.6;2
+0128610335;"Grampa redex media omega crm 3/4""";2804;256350.67;2
+0128610340;"Grampa redex media omega crm 7/8""";810;86863.89;2
+0128610345;"Grampa redex media omega crm 1""";451;52102.41;2
+0128610350;"Grampa redex media omega crm 1 1/4""";18;3312.59;2
+0128610540;Pasapared p/rg 6 nat;1;76.13;2
+0128613517;Torn.philips punta t2 tmf 19x30 p/taco 5;100;1656.13;2
+0128613558;Torn.philips punta t2 tmf 21x35 p/taco 6;74;2781.53;2
+0128614605;Mecha de widia whs 5mm largo 90mm;3;1730.83;2
+0128614606;Mecha de widia whs 6mm largo 100mm;2;1019.44;2
+0128614608;Mecha de widia whs 8mm largo 120mm;3;2385.35;2
+0128615192;Broca manual redex srm 1/4;20;6288.2;2
+012894727;Espuma de poliuretano en aerosol 500ml.;1;3390.97;2
+012894728;Espuma de poliuretano en aerosol 750ml.;4;14935.08;2
+0128T1A8X1/2;Tornillo t1 punta aguja 8x1/2 cada uno (suelto);215;1923.58;2
+0128T1M8X1/2;Tornillo t1 punta mecha 8x1/2 cada uno (suelto);3525;34252.76;2
+0128T26X1;Tornillo t2 punta aguja 6x1 cada uno (suelto);256;1519.05;2
+0128T36X11/2;Tornillo t3 punta aguja 6x1 1/2 cada uno (suelto);100;1497.56;2
+0130F0UC0020;Fusible nh ar ultrarapido t00 de 20a. 500v;0;0;2
+0133LE100;Bomba centrifuga compacta 1hp monof.;1;75286.29;2
+0133LE75;Bomba centrifuga compacta 3/4hp monof.;2;123576.41;2
+01341000N;Botonera aea 1000 n rasante ø22mm;12;21846.53;2
+01341000R;Botonera aea 1000 r rasante ø22mm;28;43232.79;2
+01341000V;Botonera aea 1000 v rasante ø22mm;48;74100.03;2
+01341100N;Botonera aea 1100 n saliente ø22mm;25;45159.11;2
+01341100R;Botonera aea 1100 r saliente ø22mm;19;43720.37;2
+01341100V;Botonera aea 1100 v saliente ø22mm;11;23576.52;2
+01341400N;Botonera aea 1400 n golpe de puño ø22mm;2;4142.08;2
+01341400R;Botonera aea 1400 r golpe de puño ø22mm;1;1664.79;2
+01341700N;Botonera 1700 n golpe de puño oscilante;0;0;2
+01341700R;Botonera 1700 r golpe de puño oscilante;7;13787.15;2
+01341700V;Botonera 1700 v golpe de puño oscilante;0;0;2
+01341900R;Botonera 1900 r golpe de puño con traba;29;79281.39;2
+01341900V;Botonera 1900 v golpe de puño con traba;4;12775.84;2
+01347000N;Selector aea ø22mm a palanca 7000 n;11;37320.38;2
+01347200N;Selector aea ø22mm a palanca 7200 n;5;13630.55;2
+013480.176.11;80.176.11 conmutador 10 pos.;5;212578.42;2
+013480.48.11;80.48.11 desv.trip.4 pos.;5;166160.62;2
+01348000N;Selector aea ø22mm a palanca 8000 n;27;99422.97;2
+01348100N;Selector aea ø22mm a palanca 8100 n;11;39861.63;2
+01348200N;Selector aea ø22mm a palanca 8200 n;13;44191.18;2
+013483211171754UVT.240;Bob. 0 tension p/td100-ts800;1;30475;2
+01348700N;Selector aea ø22mm a palanca 8700 n;2;6494.96;2
+01349000R;Selector aea ø22mm luminoso 9000 r;3;12563.15;2
+01349000V;Selector aea ø22mm luminoso 9000 v;3;12563.15;2
+0134A1X;Caja estanca aea para 1 bot.ø22 a1x gris;1;1090.57;2
+0134AT20-02R2G2;Variad at20-02r2g2 ent 1x220v/ sal. 3x220v 3hp;1;118319.42;2
+0134ATS4-100GA4P;Transferencia motorizada ats4-100ga 4p;1;161388.37;2
+0134CI-224VCA;Campana alarma aea ci-2 24 vca;3;70832.12;2
+0134EPF-32X-132A;Base f10x38 epf-32x-1 32a c/led;3;3928.47;2
+0134ESR4011-A-3P3;Arranque suave esr4011-a-3p3  7.5hp;2;200075.65;2
+0134GT3A-2EAD24;Multitimer gt3a-2ead24 24vca/cc.;1;39490.1;2
+0134GT3A-2EAF20;Multitimer gt3a-2eaf20 110/220vca;5;196993.35;2
+0134KMSR-DS0404;Rele estado solido 40 a kmsr-ds0404;3;42429.96;2
+0134KMSR-DS0604;Rele estado solido 60 a kmsr-ds0604;4;97877.86;2
+0134M-100;Micro aea m-100 normal abierto y cerrado;14;29436.08;2
+0134MICRONM-200;Micro aea nm-200 normal cerrado;178;343161.47;2
+0134MICRONM-300;Micro aea nm-300 normal abierto;237;459899.52;2
+0134MICRONM-500;Micro aea nm-500 normal abierto anticipado;6;12111.14;2
+0134NZ2400 02R2G;Variad. Nz2400 02r2g ent3x380v/sal 3x380v 3hp;0;0;2
+0134NZ2400-3R7G/5R5P;Variad.nz2400 3r7g/5r5p ent3x380v/sal 3x380v 5.5hp;1;159352.47;2
+0134NZ2400-5R5G;Variad. Nz2400-5r5g ent 3x380v/sal. 3x380v 7.5hp;4;777818.71;2
+0134NZ2400-7R5G/11P;Variad. Nz2400-07r5g/11p ent 3x380v 10hp;1;275206.61;2
+0134QT011-L;Botonera aea doble qt011 marcha-parada c/led;-4;-12445.56;2
+0134REDUCTORD.30AD.22;Reductor diam.30 a diam.22;5;4635.18;2
+0134RH4B-UAC12;Rele izumi rh4b-12vca 4 invers.10a.;5;34507.41;2
+0134RH4B-UAC220;Rele izumi rh4b-220vca 4 invers.10a.;10;85757.25;2
+0134RH4B-UDC24;Rele izumi rh4b-24vcc 4 invers.10a.;5;38848.13;2
+0134RM 010 R-V-N;Botonera rm 010 r-v-n;11;41007.55;2
+0134RM065R;Bot.golpe de puño c/retencion rm 065r;5;35225.8;2
+0134RM300N;Sel.a palanca rm 300n;1;4876.88;2
+0134RM400N;Sel.a palanca rm 400n;1;4476.52;2
+0134RP201N;Selec.a cerra.2pos 0-1 s/retorno c/ llave extr.;1;5677.01;2
+0134RR2P-UAC220;Rele izumi rr2p-u 220vca 2 invers.10a.;2;11549.8;2
+0134RR2P-UAC24;Rele izumi rr2p-u 24vca 2 invers.10a.;1;5862.79;2
+0134RR2P-UDC24;Rele izumi rr2p-u 24vcc 2 invers.10a.;2;12931.83;2
+0134RR3PA-UAC220;Rele izumi rr3pa-u 220vca 3 invers.10a.;1;7313.25;2
+0134RU4S-A110;Rele izumi ru4s-u 110vca 4 invers.5a.con led;2;9457.51;2
+0134RU4S-A220;Rele izumi ru4s-u 220vca 4 invers.5a.con led;4;18915.01;2
+0134RU4S-A24;Rele izumi ru4s-u 24vca 4 invers.5a.con led;13;55398.76;2
+0134RU4S-D110;Rele izumi ru4s-u 110vcc 4 invers.5a.con led;3;14070;2
+0134RU4S-D12;Rele izumi ru4s-u 12vcc 4 invers.5a.con led;-4;-10609.47;2
+0134RU4S-D24;Rele izumi ru4s-u 24vcc 4 invers.5a.con led;10;36903.19;2
+0134RY2S-UAC220;Rele izumi ry2s-u 220vca 2 invers.5a.;10;65485.82;2
+0134RY2S-UDC12;Rele izumi ry2s-u 12vcc 2 invers.5a.;1;4623.1;2
+0134RY2S-ULAC220;Rele izumi ry2s-u 220vca 2 invers.5a. con led;1;9199.46;2
+0134RY2S-ULDC24;Rele izumi ry2s-u 24vcc 2 invers.5a. con led;5;24531.72;2
+0134SH4B-05;Zocalo din sh4b-05;0;0;2
+0134SH4B-05C;Zocalo c/proteccion sh4b-05c;4;14960.25;2
+0134SKS-100-24;Fuente switching 220v/24v 4.5a sks-100-24;3;28874.15;2
+0134SKS-145-24;Fuente switching 220v/24v 6a sks-145-24;2;42475.34;2
+0134SKS-201T-12;Fuente switching 220v/12v 16.5a sks-201t-12;32;497882.08;2
+0134SKS-201T-24;Fuente switching 220v/24v 8.5a sks-201t-24;2;32674.7;2
+0134SKS-250T-12;Fuente switching 220v/12v 20.8a sks-250t-12;1;17488.81;2
+0134SKS-250T-24;Fuente switching 220v/24v 10.4a sks-250-24;4;64278.91;2
+0134SKS-35-24;Fuente switching 220v/24v 1.5a sks-35-24;4;27746.29;2
+0134SKS-350-12;Fuente switching 220v/12v 29.1a sks-350-12;3;56717.3;2
+0134SKS-50-24;Fuente switching 220v/24v 2.1a sks-50-24;3;21028.85;2
+0134SR2P-05B;Zocalo din sr2p-05b;3;8879.13;2
+0134SR3P-05;Zocalo din sr3p-05;12;43667.88;2
+0134SY4S-05B;Zocalo din sy4s-05;-3;-3636.07;2
+0134SY80000110G-4;Sy8000 110g/132p-4 ent 3x380v/sal.3x380v 150hp;1;3242822.7;2
+0134TS160NETS23160A4P;Int. Reg. Electronica ts160n ets23 160a 4p;1;144559.14;2
+0143CP4813;Pisocanal 48x13 sin adhesivo;42;43056.83;2
+0143CP7517;Pisocanal 75x17 sin adhesivo;28;58470.11;2
+0143FDA;Accesorio unicanal tapa terminal;38;29496.65;2
+0143FDC-100/50;Unicanal marfil 100x50 apto para armar 3 vias;82;302732.68;2
+0143FDC/E;Accesorio unicanal para llaves de luz;197;154426.56;2
+0143FDC/EFP;Accesorio unicanal bastidor plano p/face plate *;80;81374.93;2
+0143FDC/SEP;Accesorio unicanal separador estetico;46;13924.28;2
+0143FDCP-TAPA;Accesorio unicanal curva plana  tapa sola;1;1305.54;2
+0143FDS-HT50;Separador plastico para unicanal en tira de 1mt;6;4539.78;2
+0143FDT2;Accesorio unicanal base t plana + tapa;4;6024.09;2
+0143FH1;"Envoltura helic.ø1/4"" o 6.4mm. fh1";3099;497818.23;2
+0143FH2;"Envoltura helic.ø1/2"" o 12.7mm fh2";45;14290.95;2
+0143FH3;"Envoltura helic.ø5/8""  fh3";19;11129.21;2
+0143FH4;"Envoltura helic.ø3/4"" o 19mm fh4";87;58454.51;2
+0143FH5;"Envoltura helic.ø1"" o 25mm fh5";64;54084.24;2
+0143FPPBCB;Faceplate para 2 cambre 6904;50;29696.88;2
+0143HCPM-2-U;Conector helacon plus mini hcpm-2 precio x unidad;65;5365.58;2
+0143HCPM-3;Conector helacon plus mini hcpm-3 caja x100 u;1;9053.9;2
+0143HCPM-3-U;Conector helacon plus mini hcpm-3 precio x unidad;42;4043.38;2
+0143HCPM-4;Conector helacon plus mini hcpm-4 caja x100 u;4;41906.83;2
+0143HCPM-4-U;Conector helacon plus mini hcpm-4 precio x unidad;25;2911.15;2
+0143HCPM-5-U;Conector helacon plus mini hcpm-5 precio x unidad;12;1673.98;2
+0143HD4F;Cablecanal 50x50 industrial sin ranurar;18;20838.27;2
+0143HTA4016-A;Cablecanal 40x16 c/adh;2;2766.02;2
+0143HWPP25L2;Helawrap 25mm negro x pack 2mts + aplicador;0;0;2
+0143LKCS-A/NA;Plaqueta portaprecinto autoadh.32x25mm natural;4;351.98;2
+0143LKCS-A/NE;Plaqueta portaprecinto autoadh.32x25mm negra;6695;565737.99;2
+0143MB2A-NE;Plaqueta portaprecinto autoadhesiva 13x13mm negra;10;1197.88;2
+0143MC-95X22;Megacanal 95x22 c/tapa;2;5566.59;2
+0143MCCD;Caja derivacion (tapa+base) p/megacanal;16;22666.17;2
+0143MHG00-0;Marcad millenium mhg00 x100u 0.25mm2 num 0;5;3404.72;2
+0143MHG00-1;Marcad millenium mhg00 x100u 0.25mm2 num 1;1;680.94;2
+0143MHG00-2;Marcad millenium mhg00 x100u 0.25mm2 num 2;1;680.94;2
+0143MHG00-9;Marcad millenium mhg00 x100u 0.25mm2 num 9;1;680.94;2
+0143MHG2/5-T;Marcad millenium mhg2/5 x100u hasta 6mm2 letra T;1;670.3;2
+0143PA-38-B/N;Plaqueta portaprecinto autoadhesiva 38x38mm;700;115499.98;2
+0143PM-8H-304;Precinto acero inox.pm-8h 200mm x unidad;35;6725.25;2
+0143RTT750HR;Speedy tie 750mm recuperable amarillo pack 5u;3;10356.28;2
+0143T120I-NE;Precinto alt-6 300mmx7.6 x50u.negro;61;142329.97;2
+0143T120L0K2-NE;Precinto alt-76 760mmx8 cada uno negro;35;10948.44;2
+0143T120R-NA;Precinto alt-8 390mmx7.6 x50u.natural;7;27983.15;2
+0143T120R-NE;Precinto alt-8 390mmx7.6 x50u.negro;68;226953.52;2
+0143T150L0X2-NE;Precinto alt-81 817mmx9 cada uno negro;0;5438.37;2
+0143T18L-NE;Precinto alt-1 largo x100u.negro;25;22616.57;2
+0143T18R-NA;Precinto alt-1 104mmx2.5 x100u.natural;4;1834.55;2
+0143T18R-NE;Precinto alt-1 104mmx2.5 x100u.negro;232;105203.18;2
+0143T250R-NE;Precinto alt-54 535mmx13 cada uno negro;10;2338.61;2
+0143T30R-HS-NA;Precinto alt-2 150mmx3.5 x100u.natural;53;44749.37;2
+0143T30R-HS-NE;Precinto alt-2 150mmx3.5 x100u.negro;210;201773.86;2
+0143T30R-UV;Precinto 150mmx3.6 con proteccion uv x100u.;400;311364;2
+0143T50L-NA;Precinto alt-7 390mmx4.6 x100u.natural;26;100060.53;2
+0143T50L-NE;Precinto alt-7 390mmx4.6 x100u.negro;110;468175.41;3
+0143T50M-NA;Precinto alt-4 245mmx4.6 x100u.natural;7;15862.67;3
+0143T50M-NE;Precinto alt-4 245mmx4.6 x100u.negro;362;779037.64;3
+0143T50R-AM;Precinto alt-3 200mmx4.6 x100u.amarillo;1;1985.12;3
+0143T50R-MULTI-RZVA;Precinto alt-3 200mmx4.6 x100u.multicolor;1;1774.03;3
+0143T50R-NA;Precinto alt-3 200mmx4.6 x100u.natural;7;12400.64;3
+0143T50R-NE;Precinto alt-3 200mmx4.6 x100u.negro;489;844363.12;3
+0143T50R-VE;Precinto alt-3 200mmx4.6 x100u.verde;2;4295.71;3
+0143T80I-NA;Precinto alt-5 300mmx5 x100u.natural;65;148557.51;3
+0143T80I-NE;Precinto alt-5 300mmx5 x100u.negro;340;965996.65;3
+01441001CH;Gab.tableplast 207x284x120 poli azul;8;95079.64;3
+01441011CH;Gab.tableplast 207x284x160 poli azul;18;235561.76;3
+01442001CH;Gab.tableplast 242x232x140 poli azul;9;106256.98;3
+01442002CH;Gab.tableplast 242x232x140 poli beige;2;25632.6;3
+01442401CH;Gab.tableplast 297x284x110 poli azul;4;69821.83;3
+01442501CH;Gab.tableplast 297x284x140 poli azul;7;105737.95;3
+01442511CH;Gab.tableplast 297x284x150 poli azul;11;181310.73;3
+01442521CH;Gab.tableplast 297x284x170 poli azul;0;0;3
+01442528CH;Gab.tableplast 293x276x170 poli gris;3;42802.23;3
+01442901CH;Gab.tableplast 300x366x150 poli azul;5;103704.69;3
+01442901CH/1;Gab.tableplast 300x366x175 poli azul;1;20059.22;3
+01442911CH;Gab.tableplast 300x366x200 poli azul;3;77455.47;3
+01443301CH;Gab.tableplast 380x366x150 poli azul;7;179666.43;3
+01443308CH;Gab.tableplast 376x358x150 poli gris;4;82840.75;3
+01443901CH;Gab.tableplast 380x463x150 poli azul;5;158182.2;3
+01443911CH;Gab.tableplast 380x463x200 poli azul;5;144654.73;3
+01444301CH;Gab.tableplast 480x463x150 poli azul;4;136387.58;3
+01444311CH;Gab.tableplast 480x463x200 poli azul;5;199994.47;3
+01444312CH;Gab.tableplast 480x463x200 poli beige;1;35600.43;3
+0144M7850ACC;Gabinete 500x780x250 polip.ip65;1;76553.97;3
+0145BB02015;Cable bafle 2x1.50;5;2581.99;3
+01530/12A;Llave mini 0/12a int.bipolar 10a.tipo hh;46;103689.26;3
+01530/12B;Llave mini 0/12b conm.bipolar 10atipo hh;21;59219.43;3
+01530/202;Int.bipolar 16a.embutir;3;15246.41;3
+01530/204;Int tetrapolar 16a embutir;2;13633.52;3
+01530/204FM;Int tetrapolar 16a embutir 0/204fm;6;44656.3;3
+01530/222;Conm.bipolar 16a.embutir;2;15133.89;3
+01530/223;Conm.tripolar 16a.embutir;3;31845.63;3
+01530/250;Inv.marcha monof.16a.embutir;2;19852.18;3
+01530/260CD;Selector fase 16a.embutir frente y fij. din;1;5769.89;3
+01530/323CD;Conmutadora 1-0-2;1;15552;3
+01530/360CD;Int. selector de fase;12;219524.09;3
+0153101;Conmut.tripolar emb.en panel;1;4146.95;3
+0153104;Interrup.tripolar emb.en panel;5;17566.12;3
+0153105;Interrup.tripolar emb.caja rectangular;2;6479.07;3
+0153106;Interrup.tripolar exterior;3;14689;3
+015312A;Llave 12a int.bipolar 10a.tipo hh;8;19857.09;3
+015312B;Llave 12b conm.bipolar 10a.tipo hh;6;15799.47;3
+0153202;Int.bipolar 15a p/embutir;6;46518.84;3
+0153203;Int.tripolar 15a p/embutir;3;26841.06;3
+0153203C;Int.tripolar 15a con caja;2;19761.65;3
+0153221;Conmut.unipolar 15a p/embutir;1;5861.09;3
+0153223R;Conmut.tripolar 15a p/embutir con retorno;5;68115.88;3
+0153233;Selector amp.3 trafo p/embutir;1;14215.13;3
+0153243;Selector volt.(o-rs-rt-st)1(o-rs-rt-st)2 p/embutir;1;18259.09;3
+0153251;Inv.marcha trif.p/motores 15a p/embutir;3;33991.1;3
+0153251C;Inv.marcha trifasica 15a con caja;1;16148.22;3
+0153260;Selector unip.fase 3x380v 15a  p/embutir;1;10034.48;3
+0153303;Int.tripolar 30a p/embutir;5;70839.48;3
+0153303C;Int.tripolar 30a con caja;3;70904.51;3
+0153322;Conmut.bipolar 30a p/embutir;1;18034.7;3
+0153323;Conmut.tripolar 30a p/embutir;2;42559.81;3
+0153324;Conmut.tetrapolar 30a p/embutir;1;19617.01;3
+0153350;Inv.marcha monof.p/motores 30a  p/embutir;0;0;3
+0153351C;Inv.marcha trifasica 30a con caja;4;83381.21;3
+0153355C;Arrancador est.triang.30a con caja;2;53902.7;3
+0153360;Selector unip.fase 3x380v 30a p/embutir;14;219158.84;3
+01533FPL12VAM;Ojo de buey led 22.5mm ambar 12v;6;8652.84;3
+01533FPL12VVE;Ojo de buey led 22.5mm verde 12v;1;1442.14;3
+01533FPL220ACRJ;Ojo de buey led 22.5mm rojo 220v;6;12162.03;3
+01533FPL380VRJ;Ojo de buey led 22.5mm rojo 380v;4;7104;3
+01533FPL380VVE;Ojo de buey led 22.5mm verde 380v;20;35308.41;3
+0153423;Conmut.tripolar 45a p/embutir;3;86486;3
+0153424;Conmut.tetrapolar 45a  p/embutir;1;44295.5;3
+0153460;Selector unip.fase 3x380v 45a p/embutir;2;30447.21;3
+0153461;Selector bip.fase 3x380v+n 45a p/embutir;1;20685.11;3
+0153603C;Int.tripolar 60a con caja;1;30548.95;3
+0153622;Conmut.bipolar 60a p/embutir;2;39404.55;3
+0153624;Conmut.tetrapolar 60a  p/embutir;1;51687.24;3
+0153655;Arrancador est.triang.60a  p/embutir;1;36226.42;3
+0153660;Selector unip.fase 60a p/embutir;7;134375.93;3
+0153824;Conmut.tetrapolar 80a p/embutir;1;75648.39;3
+0153D;Accesorio fijacion para riel din 16a.;7;3094.47;3
+0153D32;Accesorio fijacion para riel din 32a.;4;6724.73;3
+0153ICF99-02+FU99;Secuencimetro con funda;1;20160.01;3
+0153IT316CH;Interruptor it316ch con posic 1-0-1;5;50551.39;3
+0153IT316CH-010;Interruptor it316ch con posic 0-1-0;1;13550.1;3
+0153SEL10121;Selector corte rapido 10a.12 vias 1 polo;1;5883.34;3
+0153SEL1061;Selector corte rapido 10a. 6 vias 1 polo;10;42516.1;3
+0153VE-01;Voltimetro portatil enchufable de 60v - 300v;5;26794.07;3
+015410066/2;Modulo dimmer 300w. para luz blanco;1;8703.77;3
+015410067/2;Modulo dimmer 150w. para ventilador blanco;2;14266.3;3
+015415080;Bastidor rectangular 3 modulos;1533;202439.15;3
+015415081;Bastidor mignon 1 modulos;95;11793.5;3
+01542000/2;Tapa bastidor verona 2000 blanco;140;26877.23;3
+01542000/8;Tapa bastidor verona 2000 gris;3;619.85;3
+015420011;Toma telefonico usa rj11 verona blanco;13;12381.09;3
+015420018;Modulo verona toma c/n puro 10a. blanco c.post.;11;2711.02;3
+015420028;Modulo verona toma c/n doble blanco;227;162870.59;3
+015420051;Modulo verona punto blanco;33;8897.64;3
+015420053;Modulo verona combinacion blanco;9;2965.24;3
+015420059;Modulo verona toma c/n 20a. blanco;182;92015.33;3
+015420060;Modulo verona toma schuko blanco;17;18813.03;3
+015420067;Modulo verona toma c/n combinado blanco;719;167864.35;3
+015420068;Modulo verona toma c/n puro 10a. blanco;373;102339.06;3
+015480092;Tapon ciego negro;10;275.42;5
+015716303163;Termica conextube 1x63a 3ka;3;6729.89;5
+015716303263;Termica conextube 2x63a 3ka;2;10620.35;5
+015716303350;Termica conextube 3x50a 3ka;1;9938.16;5
+015716303363;Termica conextube 3x63a 3ka;2;16108.56;5
+015716303450;Termica conextube 4x50a 3ka;9;100124.16;5
+015716453106;Termica conextube 1x6a 4.5ka;19;41410.13;5
+015716453110;Termica conextube 1x10a 4.5ka;43;114246.06;5
+015716453116;Termica conextube 1x16a 4.5ka;7;12830.23;5
+015716453120;Termica conextube 1x20a 4.5ka;203;344345.71;5
+015716453125;Termica conextube 1x25a 4.5ka;2;3713.23;5
+015716453140;Termica conextube 1x40a 4.5ka;201;425885.5;5
+015716453206;Termica conextube 2x6a 4.5ka;11;62544.54;5
+015716453210;Termica conextube 2x10a 4.5ka;489;1731067.04;5
+015716453216;Termica conextube 2x16a 4.5ka;565;2017870.27;5
+015716453220;Termica conextube 2x20a 4.5ka;373;1399403.61;5
+015716453225;Termica conextube 2x25a 4.5ka;252;964802.04;5
+015716453232;Termica conextube 2x32a 4.5ka;124;431951.74;5
+015716453240;Termica conextube 2x40a 4.5ka;51;223703.53;5
+015716453250;Termica conextube 2x50a 3ka;4;20669.1;5
+015716453310;Termica conextube 3x10a 4.5ka;9;51655.76;5
+015716453316;Termica conextube 3x16a 4.5ka;15;80318.95;5
+015716453320;Termica conextube 3x20a 4.5ka;4;22970.54;5
+015716453325;Termica conextube 3x25a 4.5ka;5;34293.75;5
+015716453332;Termica conextube 3x32a 4.5ka;3;13906.11;5
+015716453340;Termica conextube 3x40a 4.5ka;15;96082.49;5
+015716453410;Termica conextube 4x10a 4.5ka;9;61850.75;5
+015716453416;Termica conextube 4x16a 4.5ka;16;121139.12;5
+015716453420;Termica conextube 4x20a 4.5ka;23;157668.11;5
+015716453425;Termica conextube 4x25a 4.5ka;33;264034.59;5
+015716453432;Termica conextube 4x32a 4.5ka;32;232488.94;5
+015716453440;Termica conextube 4x40a 4.5ka;57;501487.61;5
+015716453463;Termica conextube 4x63a 4.5ka;30;335004.94;5
+015720001065;"Prensa 1 1/4"" gas metal s/tuerca 23-31mm";20;42802.24;5
+015720031067;"Prensa 2"" gas metal s/tuerca 40-49mm";9;81381.06;5
+015720070301;"Prensa nylon hp01 1/2"" re c/tuerca-cable 3 a 6mm";306;51663.21;5
+015720070302;"Prensa nylon hp02 5/8"" re c/tuerca-cable 4 a 8mm";897;169341.55;5
+015720070303;"Prensa nylon hp03 3/4"" re c/tuerca-cable 6 a 12mm";2285;477836.64;5
+015720070304;"Prensa nylon hp04 7/8"" re c/tuerca-cable 8 a 13mm";1677;430142.09;5
+015720070305;"Prensa nylon hp05 1"" re c/tuerca-cable 13 a 17mm";363;131944.65;5
+015720070306;"Prensa nylon hp06 1 1/4"" re c/tuerca-cable 18/24mm";165;76637.4;5
+015720070307;"Prensa nylon hp07 1 1/2"" re c/tuerca-cable 25/30mm";128;102000.09;5
+015720070308;"Prensa nylon hp08 2"" re c/tuerca-cable 37/42mm";21;30615.26;5
+015720070309;"Prensa nylon hp09  1/4"" rg c/tuerca 3.5-6mm";21;4529.34;5
+015720070310;"Prensa nylon hp10 3/8"" rg c/tuerca 4-8mm";14;3358.07;5
+015720070311;"Prensa nylon hp11 1/2"" rg c/tuerca 6-12mm";38;9393.53;5
+015720070313;"Prensa nylon hp13 3/4"" rg c/tuerca 13-17mm";28;9639.4;5
+015720070315;"Prensa nylon hp15 1 1/4"" rg c/tuerca 23-31mm";60;61305.32;5
+015720070320;Prensa nylon hp20 pg 7 c/tuerca 3-6mm;15;2685.94;5
+015720070321;Prensa nylon hp21 pg 9 c/tuerca 4-7.5mm;21;4237.31;5
+015720070322;Prensa nylon hp22 pg 11 c/tuerca 5-10mm;10;2005.21;5
+015720070323;Prensa nylon hp23 pg 13.5 c/tuerca 7-12mm;130;32619.85;5
+015720070324;Prensa nylon hp24 pg 16 c/tuerca 8-13mm;5;1445.97;5
+015722032225;Diferencial conextube 2x25a 30ma;152;1956658.51;5
+015722032240;Diferencial conextube 2x40a 30ma;247;3382050.17;5
+015722032263;Diferencial conextube 2x63a 30ma;39;568908.84;5
+015722032425;Diferencial conextube 4x25a 30ma;4;97694.87;5
+015722032440;Diferencial conextube 4x40a 30ma;32;797995.15;5
+015722032463;Diferencial conextube 4x63a 30ma;27;773949.2;5
+015729002009;"Tuerca metalica para 1""   re";1;282.15;5
+015729032015;"Tuerca aluminio para 2""   re";0;0;5
+015729032017;"Tuerca al.para 2"" rg";9;6489.6;5
+015729032018;"Tuerca al.para 2 1/2""rg";10;17961.1;5
+015730001022;Conextube zm3- 3/4 re alum.con tuerca;20;18443;5
+015730001023;Conextube zm4- 7/8 re alum.con tuerca//;24;21675.63;5
+015730001024;"Conextube zm5- 1"" re alum.con tuerca";19;22548.27;5
+015732834302;Piloto lum ojo de buey d22 24v verde;3;4144.72;5
+015732834304;Piloto lum ojo de buey d22 220v verde;16;20029.52;5
+015732834404;Piloto lum ojo de buey d22 220v rojo;13;16381.67;5
+015732834504;Piloto lum ojo de buey d22 220v ambar;3;4144.72;5
+015744000044;Caja pilar ip66 p/4 bocas din exterior;81;290877.33;5
+015744000055;Caja pilar ip66 p/8 bocas din ip65;24;147728.55;5
+015744001200;Gabinete din ip65. 12p ciego 440x270x112;3;48765.23;5
+015744001228;CONEXTAB CXDIN CON PORTA ZUNCHO -MAX 32A;2;211916.9;5
+015744001238;CONEXTAB CXDIN SOBREPONER MAX16A;6;314648.13;5
+015746010412;Caja din 4 mod.embutir tapa fume luxury;1;4156.72;5
+015746010422;Caja din 4 mod.exter. tapa fume luxury;2;6836.03;5
+015746010812;Caja din 8 mod.embutir tapa fume luxury;4;16291.28;5
+015746010822;Caja din 8 mod.exter. tapa fume luxury;45;219601.16;5
+015746011212;Caja din 12 mod.embutir tapa fume luxury;20;158961.14;5
+015746011222;Caja din 12 mod.exter. tapa fume luxury;13;114282.4;5
+015746011812;Caja din 18 mod.embutir tapa fume luxury;2;23445.16;5
+015746011822;Caja din 18 mod.exter. tapa fume luxury;2;24466.99;5
+015746012412;Caja din 24 mod.embutir tapa fume luxury;8;95794.79;5
+015746012422;Caja din 24 mod.exterior tapa fume luxury;1;13665;5
+015746013612;Caja din 36 mod.embutir tapa fume luxury;10;186323.01;5
+015746013622;Caja din 36 mod.exterior tapa fume luxury;1;22537.63;5
+015746015412;Caja din 54 mod.embutir tapa fume luxury;8;262202.65;5
+015746015422;Caja din 54 mod.exterior tapa fume luxury;5;185357.26;5
+015748008500;Gab.argenpol 32x27x15 1 cierre tapa opaca;1;21736.57;5
+015748008525;Gab.argenpol 64x52x23 3 cierres tapa opaca;1;62986.76;5
+015749008009;Bandeja ch.p/caja conexp0l- k-464/e5436;1;21170.29;5
+015749008138;Conexplan (porta plano);10;30831.44;5
+015749008150;REPUESTO TAPA CIEGA P/MàDULO;1;107.74;5
+015749008531;Bandeja chapa pbm-325 p/agp 3227;1;4654.45;5
+015750001000;Caja estanca alum.100x100x60 inyectada;17;159918.63;5
+015750001001;Caja estanca alum.100x100x100 inyectada;16;181716.88;5
+015750001010;Caja estanca alum.150x150x75 inyectada;3;48269.27;5
+015750001011;Caja estanca alum.150x150x100 inyectada;17;309923.68;5
+015750001012;Caja estanca alum.200x200x100 inyectada;18;527516.86;5
+015750001013;Caja estanca alum.200x150x100 inyectada;4;100744.59;5
+015751001868;Caja estanca alum.300x300x100;3;498495.14;5
+015751001869;Caja estanca alum.300x300x150;10;1614693.11;5
+015762009008;Caja toma 60a.pvc vacia edenor;1;12526.25;5
+015762019008;Caja toma 60a. s/bases borne largo edenor;2;28360.25;5
+015762019045;Caja toma 200a.c/bases nh pvc edenor;1;94856.92;5
+015762029008;Caja toma 60a.pvc vacia edesur;10;102908.73;5
+015762029028;Caja toma 60a.pvc armada c/bases nh t00 edesur;1;19732.25;5
+015762029029;Caja de toma y secc.edesur c/6 bases t3 640x520x23;4;796468.24;5
+015762029045;Caja toma 200a.c/bases nh pvc edesur;3;202974.77;5
+015762029302;Caja country e/s 500a 6 bnh t3 + 3 bnh t00 bl;2;341142.45;5
+015763019032;Caja toma t3 c/bases nh edenor 640x520x230;1;287886.52;5
+015763029031;Gab. med. t3 edesur 640x520x230;3;679744.82;5
+015763029032;Caja toma t3 c/bases nh edesur 640x520x230;1;291278.93;5
+015763029600;Gab.med.t2 520x420x200 edesur 10 a 100kw;1;66422.44;5
+015763029601;Toma tar.2 pvc conextube edesur 30 a 100kw;2;253357.78;5
+015764009022;Caja med monof.pvc edenor/edelap c/reset;9;42065.21;5
+015764009036;Caja med. trifásico sin rst embutir;1;8425.87;5
+015764009037;Caja med.trif.pvc edenor/edelap c/reset;12;152608.36;5
+015764029012;Caja med.monof.pvc edesur c/reset;71;315308.41;5
+015764029027;Caja med.trif.pvc edesur c/reset;20;181938.9;5
+015764119007;CAJA MEDIDOR MONOFASICA ISLAS (EDENOR);1;41543.4;5
+015766009240;Barras de acople para 2 columnas;9;71938.35;5
+015766010600;Gab.pvc 6 med.mono edelap/edenor c/tm;1;233235.03;5
+015766011200;Gab.pvc 12 med.mono edelap/edenor c/tm;1;410272.99;5
+015766013200;Gab.pvc 2 med.trif.t1 10kw edelap/edenor c/tm;1;142014.55;5
+015766020600;Gab.pvc 6 med.mono edesur 1.44 mt c/tm y dif;1;357022.08;5
+015766020900;Gab.pvc 9 med.mono edesur 1.44 mt c/tm y dif;1;518893.94;5
+015766023200;Gab.pvc 2 med.trif edesur 1.71 mt c/tm y dif;1;209060.09;5
+015766023200-1;Gab 2 med.tri edesur cableado uno 1.71 mt c/tm y;1;158640.65;5
+015766041200;Gab.pvc 12 med.mono edesur 1.71 mt c/tm + reserva;1;517004.59;5
+015766049071;Gab.pvc 1 med.mon.+1 tri.edesur 1.71 mt c/tm +res;1;206466.67;5
+015767009009;Conjunto tablero provisorio p/obra trif.;3;167028.46;5
+015780021020;Caño metalico flexible fr 3/4'';0;0;5
+0157KIT CJA MEDIDOR;Kit para caja de Medidor;3;1050.04;5
+0157KIT TOMA PRIMARIA;Kit toma primaria 60 Amper;3;1300.31;5
+0158C17;"Curva 5/8"" hierro";22;4517.12;5
+0158C18;"Curva 3/4"" hierro";301;70940.51;5
+0158C19;"Curva 7/8"" hierro";142;49830.23;5
+0158C2;"Caño liviano acertubo 5/8"" el mt. (102)";138;58320.51;5
+0158C20;"Curva 1"" hierro";82;40306.35;5
+0158C21;"Curva 1 1/4"" hierro";17;13436.56;5
+0158C22;"Curva 1 1/2"" hierro";14;19653.64;5
+0158C23;"Curva 2"" hierro";13;34331.36;5
+0158C27;"Curva pesada 1"" hierro";20;14880.97;5
+0158C3;"Caño liviano acertubo 3/4"" el mt. (90)";1887;1065005.28;5
+0158C32;"Union enchufe 3/4"" hierro";587;42660.2;5
+0158C33;"Union enchufe 7/8"" hierro";346;28035.29;5
+0158C34;"Union enchufe 1"" hierro";192;24665.93;5
+0158C35;"Union enchufe 1 1/4"" hierro";20;5563.64;5
+0158C36;"Union enchufe 1 1/2"" hierro";5;1952.5;5
+0158C37;"Union enchufe 2"" hierro";45;42418.39;5
+0158C4;"Caño liviano acertubo 7/8"" el mt. (60)";372;360387.62;5
+0158C43;"Caño bwg18 semipesado 3/4"" x metro (60)";2955;2240418.95;5
+0158C44;"Caño bwg18 semipesado 7/8"" x metro (60)";1098;920212.82;5
+0158C45;"Caño bwg18 semipesado 1"" x metro (45)";657;658582.63;5
+0158C46;"Caño bwg18 semipesado 1 1/4"" x metro (30)";60;94261.72;5
+0158C47;"Caño bwg18 semipesado 1 1/2"" x metro (30)";258;451690.49;5
+0158C48;"Caño bwg18 semipesado 2"" x metro (15)";237;605647.88;5
+0158C5;"Caño liviano acertubo 1"" el mt. (60)";60;47492.66;5
+0158C51;"Cupla rosca 3/4""";27;3075.59;5
+0158C53;"Cupla rosca 1""";0;0;5
+0158C6;"Caño liviano acertubo 1 1/4"" el mt. (30)";24;30662.71;5
+0158C7;"Caño liviano acertubo 1 1/2"" el mt. (30)";45;67698.17;5
+0158C8;"Caño liviano acertubo 2"" el mt. (15)";252;658589.21;5
+0174CAP/MIC;Capsula transmisora netyer sin polaridad;1;5808.82;5
+0174T3B;Telefono netyer iii blanco;5;125476.96;5
+0174T4B;Telefono netyer modelo 4 blanco;5;120694.7;5
+0181CBG;Contacmatic bio x440cc;5;7113.33;5
+0181CSGV;Contacmatic super l/verde 450gr.440cc sin gatillo;37;297559.75;5
+0181CSV;Contacmatic super l/verde 225gr.230cc sin gatillo;11;50329.71;5
+0181DECA;Decapante para soldaduras;1;210.2;5
+0181OR;Aire comprimido compitt or 160gr.180cc s/gatillo;1;2231.41;5
+0181ORA;Aire comprimido compitt or 160gr.180cc c/gatillo;1;2445.03;5
+0181ORG;Aire comprimido compitt or 450gr.440cc s/gatillo;3;18824.91;5
+0181PASA;Gel pasacable 220gr;32;29650.51;5
+0181PH5;Alcohol isoprop. 5 litros;1;10318.72;5
+0181PHXL;Alcohol isoprop. 1 litro;6;19818.65;5
+0181SD15D;Solvente dielectrico x 20 litros;2;293321.02;5
+0187179;"Termo atum c/adhesivo 9/3 3/8"" raychem";1;7805.98;5
+0187180;"Termo atum c/adhesivo 12/4 1/2"" raychem";1;11158.65;5
+01872169;Automatico tm a tanza de corte rapido;7;18013.88;5
+01872186;Cinta pasacable c/alma de acero 30m;1;4007.98;5
+01872245;Indicador de nivel modelo in;3;35427.81;5
+01872312;Cinta pasacable c/alma de acero 7m;12;15737.33;5
+01872313;Cinta pasacable c/alma de acero 10m;44;81535.04;5
+01872314;Cinta pasacable c/alma de acero 15m;25;67481.02;5
+01872315;Cinta pasacable c/alma de acero 20m;6;23803.08;5
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
