@@ -1,3 +1,4 @@
+use alsina;
 #VISTAS#
 
 #VENTAS POR VENDEDOR TOTAL#
@@ -109,6 +110,47 @@ begin
 end //
 delimiter ;
 Call sp_cliente_activo;
+#Sp que  insertar un cliente nuevo a la tabla cliente y a su vez insetar en la tabla ventas la compra realizada por el cliente nuevo #
+DELIMITER //
+CREATE PROCEDURE sp_add_CLIENTE(IN CLIENTE_NOMBRE VARCHAR(45), IN CLIENTE_APELLIDO VARCHAR(45), CLIENTE_EMAIL VARCHAR(45), CLIENTE_DNI VARCHAR(45),ID_VENDEDOR INT,FECHA_VENTA DATE,TOTAL_VENTA FLOAT,ID_ESTADO INT, ID_TIPO_PAGO INT)
+BEGIN
+    DECLARE CLIENTE INT DEFAULT 0;
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION, NOT FOUND, SQLWARNING    
+		BEGIN
+			ROLLBACK;
+			SELECT 'Error';
+		END;
+
+	START TRANSACTION;
+		IF NOT EXISTS(SELECT id FROM cliente WHERE NOMBRE = CLIENTE_NOMBRE AND APELLIDO = CLIENTE_APELLIDO AND EMAIL = CLIENTE_EMAIL AND DNI = CLIENTE_DNI) THEN        
+        BEGIN
+			INSERT INTO CLIENTE (NOMBRE,APELLIDO,EMAIL,DNI) VALUES (CLIENTE_NOMBRE, CLIENTE_APELLIDO,CLIENTE_EMAIL,CLIENTE_DNI);
+			SET CLIENTE = LAST_INSERT_ID();
+        END;
+        ELSE        
+			SELECT id INTO CLIENTE FROM cliente WHERE NOMBRE = CLIENTE_NOMBRE AND APELLIDO = CLIENTE_APELLIDO AND EMAIL = CLIENTE_EMAIL AND DNI = CLIENTE_DNI ;        
+        END IF;
+        
+        INSERT INTO VENTAS(FECHA_VENTA,ID_VENDEDOR,TOTAL_VENTA, ID_CLIENTE, ID_ESTADO,ID_TIPO_PAGO)
+        VALUES (FECHA_VENTA,ID_VENDEDOR,TOTAL_VENTA,CLIENTE,ID_ESTADO,ID_TIPO_PAGO);
+
+        SELECT 'Congrates!, successfully executed.';
+    COMMIT;
+END; //
+
+DELIMITER ;
+#Llamado al sp pasando por parametros los datos correctos nos va dar el mensaje exitoso#
+CALL sp_add_CLIENTE('NICOLAS','PERFUMO','PERFU@GMAIL','12369989',7,'2023-01-12',78998,1,2);
+#Llamado al sp enviando por parametro id vendedor 8 nos va a salir un msj de error ya que no esta registrado ese id en la tabla vendedor #
+CALL sp_add_CLIENTE('NICOLAS','PERFUMO','PERFU@GMAIL','12369989',8,'2023-01-12',78998,1,2);
+#buscar el cliente con id y verificar que se inserto en la tabla vendedores#
+select * from cliente order by id desc;
+#buscar en ventas  con id_cliente y verificar que se inserto en la tabla ventas#
+select * from ventas order by id desc;
+#verificar los id de los vendedores para poder probar el sp#
+select * from vendedores
+
+
 
 #TRIGGERS#
 #se crea esta nueva tabla para guardar los logs de la tabla cliente#
