@@ -1,4 +1,4 @@
-CREATE SCHEMA Alsina;
+CREATE SCHEMA alsina;
 USE alsina;
 
 create TABLE tipo_de_pago(
@@ -10,9 +10,8 @@ create TABLE tipo_de_pago(
 
 CREATE TABLE tipo_de_pago(
 	id INT, 
-    tarjeta v,
-    primera_compra date,
-    ultima_compra date
+	valor varchar(20),
+    activo bit
  
 );
 
